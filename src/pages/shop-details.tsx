@@ -37,8 +37,8 @@ export default function ShopDetailsPage() {
             title="Our Product Showcase"
             subtitle="Meet our products, guiding you through financial intricacies with precision"
             page="Shop"
-            bg_img="/static/assets/images/media/img_47.jpg"
-            shape="/static/assets/images/shape/shape_26.svg"
+            bg_img="/assets/images/media/img_47.jpg"
+            shape="/assets/images/shape/shape_26.svg"
           />
           {/* breadcrumb end */}
 

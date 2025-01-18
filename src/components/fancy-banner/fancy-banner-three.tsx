@@ -21,7 +21,7 @@ const FancyBannerThree = () => {
               <NavLink to="/contact"
                 className="quote-btn tran5s rounded-circle d-flex align-items-center justify-content-center ms-auto"
               >
-                <img src="/static/assets/images/icon/icon_30.svg" alt="icon" className="lazy-img" />
+                <img src="/assets/images/icon/icon_30.svg" alt="icon" className="lazy-img" />
               </NavLink>
             </div>
           </div>

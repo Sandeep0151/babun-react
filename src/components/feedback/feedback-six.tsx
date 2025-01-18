@@ -31,7 +31,7 @@ const FeedbackSix = () => {
             <div className="icon-container position-relative">
               <div className="icon rounded-circle d-flex align-items-center justify-content-center m-auto">
                 <img
-                  src="/static/assets/images/icon/icon_97.svg"
+                  src="/assets/images/icon/icon_97.svg"
                   alt="icon"
                   className="lazy-img"
                 />
@@ -56,17 +56,17 @@ const FeedbackSix = () => {
         </div>
       </div>
       <img
-        src="/static/assets/images/assets/screen_24.png"
+        src="/assets/images/assets/screen_24.png"
         alt="screen"
         className="lazy-img shapes shape_01"
       />
       <img
-        src="/static/assets/images/assets/screen_25.png"
+        src="/assets/images/assets/screen_25.png"
         alt="screen"
         className="lazy-img shapes shape_02"
       />
       <img
-        src="/static/assets/images/shape/shape_46.svg"
+        src="/assets/images/shape/shape_46.svg"
         alt="shape"
         className="lazy-img shapes shape_03"
       />

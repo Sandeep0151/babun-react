@@ -25,8 +25,8 @@ export default function ServiceV1Page() {
             title="Our offerings & Services"
             subtitle="Offering solutions & services to address a spectrum of financial issues"
             page="Services"
-            shape="/static/assets/images/shape/shape_26.svg"
-            bg_img="/static/assets/images/media/img_32.jpg"
+            shape="/assets/images/shape/shape_26.svg"
+            bg_img="/assets/images/media/img_32.jpg"
             style_2={true}
             cls="me-xxl-4 me-lg-5"
           />

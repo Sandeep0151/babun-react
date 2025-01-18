@@ -2,25 +2,25 @@
 const feature_data = [
   {
     id: 1,
-    icon: 'static/assets//images/icon/icon_98.svg',
+    icon: '/assets/images/icon/icon_98.svg',
     title: "Health Insurance",
     desc: "Maximize convenience by paying for ads, subscriptions, and inventory with Mastercard®.",
   },
   {
     id: 2,
-    icon: 'static/assets//images/icon/icon_99.svg',
+    icon: '/assets/images/icon/icon_99.svg',
     title: "Family Insurance",
     desc: "Maximize convenience by paying for ads, subscriptions, and inventory with Mastercard®.",
   },
   {
     id: 3,
-    icon: 'static/assets//images/icon/icon_100.svg',
+    icon: '/assets/images/icon/icon_100.svg',
     title: "Travel Insurance",
     desc: "Maximize convenience by paying for ads, subscriptions, and inventory with Mastercard®.",
   },
   {
     id: 4,
-    icon: 'static/assets//images/icon/icon_101.svg',
+    icon: '/assets/images/icon/icon_101.svg',
     title: "Education Insurance",
     desc: "Maximize convenience by paying for ads, subscriptions, and inventory with Mastercard®.",
   },
@@ -60,7 +60,7 @@ const BlockFeatureFourteen = () => {
                         href="service-details.html"
                         className="arrow-btn tran3s mt-auto stretched-link"
                       >
-                        <img src="static/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img" />
+                        <img src="/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img" />
                       </a>
                     </div>
                   </div>
@@ -78,12 +78,12 @@ const BlockFeatureFourteen = () => {
                 className="btn-three border-style icon-link"
               >
                 <span>See All Services</span>
-                <img src="static/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img icon ms-1"/>
+                <img src="/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img icon ms-1"/>
               </a>
             </div>
           </div>
         </div>
-        <img src="static/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_01"/>
+        <img src="/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_01"/>
       </div>
     </div>
   );

@@ -9,7 +9,7 @@ const PartnersLogosTwo = () => {
             <span className="fw-bold">100+</span> Trusted Partners{" "}
             <span className="ms-4 d-none d-sm-inline-block">
               <img
-                src="/static/assets/images/shape/shape_19.svg"
+                src="/assets/images/shape/shape_19.svg"
                 alt="shape"
                 className="lazy-img"
               />
@@ -18,23 +18,23 @@ const PartnersLogosTwo = () => {
           <div className="logo-wrapper ps-xl-4 align-items-center d-flex flex-wrap flex-xl-nowrap justify-content-center justify-content-xl-between flex-fill">
             <div className="br-name">Google</div>
             <div className="br-name">
-              <img src="/static/assets/images/shape/shape_20.svg" alt="shape" className="lazy-img" />
+              <img src="/assets/images/shape/shape_20.svg" alt="shape" className="lazy-img" />
             </div>
             <div className="br-name">Facebook</div>
             <div className="br-name">
-              <img src="/static/assets/images/shape/shape_20.svg" alt="shape" className="lazy-img" />
+              <img src="/assets/images/shape/shape_20.svg" alt="shape" className="lazy-img" />
             </div>
             <div className="br-name">Insta</div>
             <div className="br-name">
-              <img src="/static/assets/images/shape/shape_20.svg" alt="shape" className="lazy-img" />
+              <img src="/assets/images/shape/shape_20.svg" alt="shape" className="lazy-img" />
             </div>
             <div className="br-name">Dribbble</div>
             <div className="br-name">
-              <img src="/static/assets/images/shape/shape_20.svg" alt="shape" className="lazy-img" />
+              <img src="/assets/images/shape/shape_20.svg" alt="shape" className="lazy-img" />
             </div>
             <div className="br-name">Fundbox</div>
             <div className="br-name">
-              <img src="/static/assets/images/shape/shape_20.svg" alt="shape" className="lazy-img" />
+              <img src="/assets/images/shape/shape_20.svg" alt="shape" className="lazy-img" />
             </div>
             <div className="br-name">Segment</div>
           </div>

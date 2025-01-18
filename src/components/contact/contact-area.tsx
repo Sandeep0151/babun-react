@@ -31,21 +31,21 @@ const ContactArea = () => {
               <div className="row">
                 <div className="col-md-4">
                   <AddressBlock
-                    icon="/static/assets/images/icon/icon_90.svg"
+                    icon="/assets/images/icon/icon_90.svg"
                     title="Our Address"
                     subtitle="1012 Pebda Parkway, Mirpur 2 <br/>Dhaka, Bangladesh"
                   />
                 </div>
                 <div className="col-md-4">
                   <AddressBlock
-                    icon="/static/assets/images/icon/icon_91.svg"
+                    icon="/assets/images/icon/icon_91.svg"
                     title="Contact Info"
                     subtitle='Open a chat or give us call at <br/><a href="tel:310.841.5500" className="call text-lg fw-500">310.841.5500</a>'
                   />
                 </div>
                 <div className="col-md-4">
                   <AddressBlock
-                    icon="/static/assets/images/icon/icon_92.svg"
+                    icon="/assets/images/icon/icon_92.svg"
                     title="Live Support"
                     subtitle='live chat service <br/><a href="#" className="webaddress">www.babunlivechat.com</a>'
                   />
@@ -61,7 +61,7 @@ const ContactArea = () => {
                   <div className="row">
                     <div className="col-md-8 col-6 me-auto ms-auto">
                       <img
-                        src="/static/assets/images/assets//ils_07.svg"
+                        src="/assets/images/assets//ils_07.svg"
                         alt="icon"
                         className="lazy-img me-auto ms-auto"
                       />

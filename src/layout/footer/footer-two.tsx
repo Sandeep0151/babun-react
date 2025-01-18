@@ -16,7 +16,7 @@ const FooterTwo = ({bg=true}:IProps) => {
             <div className="col-xl-3 col-lg-4 footer-intro mb-30">
               <div className="logo mb-35 md-mb-20">
                 <NavLink to="/">
-                  <img src="/static/assets/images/logo/logo_02.svg" alt="logo"/>
+                  <img src="/assets/images/logo/logo_02.svg" alt="logo"/>
                 </NavLink>
               </div> 
               <p className="lh-sm mb-40 md-mb-20">
@@ -62,8 +62,8 @@ const FooterTwo = ({bg=true}:IProps) => {
           </div>
           <div className="copyright text-center">Copyright @{new Date().getFullYear()} babun inc.</div>
         </div>
-        <img src="/static/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_01"/>
-        <img src="/static/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_02"/>
+        <img src="/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_01"/>
+        <img src="/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_02"/>
       </div>
     </div>
   </div>

@@ -49,7 +49,7 @@ const RegisterForm = () => {
             <input type={`${showPass ? "text" : "password"}`} {...register("password")} id='password' placeholder="Enter Password" className="pass_log_id" />
             <span className="placeholder_icon" onClick={() => setShowPass(!showPass)}>
               <span className={`passVicon ${showPass ? "eye-slash" : ""}`}>
-                <img src="/static/assets/images/icon/icon_13.svg" alt="pass-icon" />
+                <img src="/assets/images/icon/icon_13.svg" alt="pass-icon" />
               </span>
             </span>
             <ErrMsg msg={errors.password?.message as string} />

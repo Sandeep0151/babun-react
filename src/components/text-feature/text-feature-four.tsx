@@ -44,7 +44,7 @@ const TextFeatureFour = () => {
           <div className="col-md-4 order-md-first wow fadeInLeft">
             <div className="d-flex align-items-center mt-10 sm-mt-30">
               <img
-                src="/static/assets/images/media/img_19.jpg"
+                src="/assets/images/media/img_19.jpg"
                 alt="ceo_img"
                 className="lazy-img avatar rounded-circle"
               />
@@ -92,8 +92,8 @@ const TextFeatureFour = () => {
           </div>
         </div>
       </div>
-      <img src="/static/assets/images/shape/shape_13.svg" alt="shape" className="lazy-img shapes shape_01" />
-      <img src="/static/assets/images/shape/shape_13.svg" alt="shape" className="lazy-img shapes shape_02" />
+      <img src="/assets/images/shape/shape_13.svg" alt="shape" className="lazy-img shapes shape_01" />
+      <img src="/assets/images/shape/shape_13.svg" alt="shape" className="lazy-img shapes shape_02" />
     </div>
   );
 };

@@ -85,17 +85,17 @@ const BreadcrumbTwo = ({
         </div>
       </div>
       <img
-        src="static/assets/images/assets/ils_01.svg"
+        src="/assets/images/assets/ils_01.svg"
         alt="shape"
         className="lazy-img shapes shape_01"
       />
       <img
-        src="static/assets/images/assets/ils_02.svg"
+        src="/assets/images/assets/ils_02.svg"
         alt="shape"
         className="lazy-img shapes shape_02"
       />
-      <img src="static/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_03" />
-      <img src="static/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_04" />
+      <img src="/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_03" />
+      <img src="/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_04" />
     </div>
   );
 };

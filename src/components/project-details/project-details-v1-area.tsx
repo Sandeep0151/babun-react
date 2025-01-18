@@ -24,9 +24,9 @@ const ProjectDetailsArea = () => {
           <div className="d-lg-flex align-items-center">
             <h3>Project <span>Details</span></h3>
             <ul className="style-none d-md-flex flex-fill ps-lg-5">
-              <ListItem icon="/static/assets/images/icon/icon_85.svg" text='Date' sm_text='23 July, 2022' />
-              <ListItem icon="/static/assets/images/icon/icon_86.svg" text='Client Name' sm_text='Mariona Adisson, USA' />
-              <ListItem icon="/static/assets/images/icon/icon_87.svg" text='Project Type' sm_text='Business Consulting' />
+              <ListItem icon="/assets/images/icon/icon_85.svg" text='Date' sm_text='23 July, 2022' />
+              <ListItem icon="/assets/images/icon/icon_86.svg" text='Client Name' sm_text='Mariona Adisson, USA' />
+              <ListItem icon="/assets/images/icon/icon_87.svg" text='Project Type' sm_text='Business Consulting' />
             </ul>
           </div>
         </div>
@@ -42,11 +42,11 @@ const ProjectDetailsArea = () => {
         <div className="img-gallery mb-60 lg-mb-40">
           <div className="row">
             <div className="col-sm-8">
-              <img src="/static/assets/images/gallery/img_17.jpg" alt="gallery_img" className="lazy-img" />
+              <img src="/assets/images/gallery/img_17.jpg" alt="gallery_img" className="lazy-img" />
             </div>
             <div className="col-sm-4">
-              <img src="/static/assets/images/gallery/img_18.jpg" alt="gallery_img" className="lazy-img" />
-              <img src="/static/assets/images/gallery/img_19.jpg" alt="gallery_img" className="lazy-img" />
+              <img src="/assets/images/gallery/img_18.jpg" alt="gallery_img" className="lazy-img" />
+              <img src="/assets/images/gallery/img_19.jpg" alt="gallery_img" className="lazy-img" />
             </div>
           </div>
         </div>
@@ -93,8 +93,8 @@ const ProjectDetailsArea = () => {
               </div>
               <div className="col-xxl-6 col-lg-5 d-flex order-lg-first wow fadeInLeft">
                 <div className="media-wrapper w-100 position-relative" 
-                style={{ backgroundImage: `url(/static/assets/images/media/img_36.jpg)`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center' }}>
-                  <img src="/static/assets/images/assets/screen_20.svg" alt="screen" className="lazy-img shapes screen_03" />
+                style={{ backgroundImage: `url(/assets/images/media/img_36.jpg)`, backgroundRepeat: 'no-repeat', backgroundPosition: 'center' }}>
+                  <img src="/assets/images/assets/screen_20.svg" alt="screen" className="lazy-img shapes screen_03" />
                 </div>
               </div>
             </div>

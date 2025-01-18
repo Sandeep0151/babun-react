@@ -4,9 +4,9 @@ import { NavLink } from "react-router-dom";
 
 // slider bg
 const slider_bg = [
-  '/static/assets/images/media/img_01.jpg',
-  '/static/assets/images/media/img_02.jpg',
-  '/static/assets/images/media/img_03.jpg'
+  '/assets/images/media/img_01.jpg',
+  '/assets/images/media/img_02.jpg',
+  '/assets/images/media/img_03.jpg'
 ];
 // slider setting
 const slider_setting = {
@@ -53,7 +53,7 @@ const HeroBannerTwo = () => {
               data-wow-delay="0.2s"
             >
               <span>Let’s Talk</span>
-              <img src="/static/assets/images/icon/icon_02.svg" alt="icon" className="lazy-img icon ms-2" />
+              <img src="/assets/images/icon/icon_02.svg" alt="icon" className="lazy-img icon ms-2" />
             </NavLink>
           </div>
         </div>

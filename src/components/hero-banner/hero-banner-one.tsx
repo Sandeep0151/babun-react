@@ -16,7 +16,7 @@ const HeroBannerOne = () => {
                 <span className="d-inline-block position-relative">
                   Financial
                   <img
-                    src="/static/assets/images/shape/shape_04.svg"
+                    src="/assets/images/shape/shape_04.svg"
                     alt="shape"
                     className="lazy-img"
                   />
@@ -56,22 +56,22 @@ const HeroBannerOne = () => {
           </div>
         </div>
         <img
-          src="/static/assets/images/shape/shape_05.svg"
+          src="/assets/images/shape/shape_05.svg"
           alt="shape"
           className="lazy-img shapes shape_01"
         />
         <img
-          src="/static/assets/images/shape/shape_06.svg"
+          src="/assets/images/shape/shape_06.svg"
           alt="shape"
           className="lazy-img shapes shape_02"
         />
         <img
-          src="/static/assets/images/assets/screen_02.png"
+          src="/assets/images/assets/screen_02.png"
           alt="screen"
           className="lazy-img shapes shape_03"
         />
         <img
-          src="/static/assets/images/assets/screen_03.png"
+          src="/assets/images/assets/screen_03.png"
           alt="screen"
           className="lazy-img shapes shape_04"
         />

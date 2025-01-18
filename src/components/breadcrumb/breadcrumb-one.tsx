@@ -14,7 +14,7 @@ type IProps = {
 const BreadcrumbOne = ({
   title,
   subtitle,
-  bg_img = 'static/assets/images/media/img_26.jpg',
+  bg_img = '/assets/images/media/img_26.jpg',
   page,
   cls='',
   style_2 = false,

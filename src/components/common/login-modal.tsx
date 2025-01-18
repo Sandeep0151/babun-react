@@ -80,13 +80,13 @@ const LoginModal = () => {
               <div className="row">
                 <div className="col-sm-6">
                   <a href="#" className="social-use-btn d-flex align-items-center justify-content-center tran3s w-100 mt-10">
-                    <img src="/static/assets//images/icon/google.png" alt="google" />
+                    <img src="/assets//images/icon/google.png" alt="google" />
                     <span className="ps-3">Signup with Google</span>
                   </a>
                 </div>
                 <div className="col-sm-6">
                   <a href="#" className="social-use-btn d-flex align-items-center justify-content-center tran3s w-100 mt-10">
-                    <img src="/static/assets//images/icon/facebook.png" alt="facebook" />
+                    <img src="/assets//images/icon/facebook.png" alt="facebook" />
                     <span className="ps-3">Signup with Facebook</span>
                   </a>
                 </div>

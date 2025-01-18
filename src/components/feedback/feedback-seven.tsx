@@ -74,10 +74,10 @@ const FeedbackSeven = () => {
       </div>
       <ul className="slider-arrows slick-arrow-one d-flex justify-content-between style-none">
         <li onClick={sliderPrev} className="prev_S tran3s slick-arrow d-flex align-items-center justify-content-center">
-          <img src="/static/assets/images/icon/icon_103.svg" alt="icon" className="lazy-img"/>
+          <img src="/assets/images/icon/icon_103.svg" alt="icon" className="lazy-img"/>
         </li>
         <li onClick={sliderNext} className="next_S tran3s slick-arrow d-flex align-items-center justify-content-center">
-          <img src="/static/assets/images/icon/icon_102.svg" alt="icon" className="lazy-img"/>
+          <img src="/assets/images/icon/icon_102.svg" alt="icon" className="lazy-img"/>
         </li>
       </ul>
     </div>

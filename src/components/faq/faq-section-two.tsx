@@ -55,7 +55,7 @@ function FaqProjectItem({ item }: { item: IProject }) {
                   className="fancybox rounded-circle video-icon tran3s text-center d-flex align-items-center justify-content-center cursor-pointer"
                   onClick={() => setIsVideoOpen(true)}
                 >
-                  <img src="/static/static/assets/images/icon/icon_29.svg" alt="arrow" />
+                  <img src="/assets/images/icon/icon_29.svg" alt="arrow" />
                 </a>
               </div>
             </div>
@@ -106,8 +106,8 @@ const FaqSectionTwo = () => {
           </div>
         </div>
       </div>
-      <img src="/static/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_01" />
-      <img src="/static/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_02" />
+      <img src="/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_01" />
+      <img src="/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_02" />
     </div>
     </>
   );

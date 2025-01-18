@@ -29,7 +29,7 @@ const HomeBlogs = ({cls}:{cls?:string}) => {
               <span className="text">See all blogs</span>
               <div className="icon tran3s rounded-circle d-flex align-items-center">
                 <img
-                  src="static/assets/images/icon/icon_27.svg"
+                  src="/assets/images/icon/icon_27.svg"
                   alt="icon"
                   className="lazy-img"
                 />
@@ -39,7 +39,7 @@ const HomeBlogs = ({cls}:{cls?:string}) => {
         </div>
       </div>
       <img
-        src="static/assets/images/shape/shape_06.svg"
+        src="/assets/images/shape/shape_06.svg"
         alt="shape"
         className="lazy-img shapes shape_01"
       />

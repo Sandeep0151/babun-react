@@ -48,20 +48,20 @@ const TextFeatureSix = () => {
             </div>
           </div>
           <div className="media-wrapper">
-            <img src="/static/assets/images/assets/hand.png" alt="hand-img" className="lazy-img w-100" />
+            <img src="/assets/images/assets/hand.png" alt="hand-img" className="lazy-img w-100" />
             <img
-              src="/static/assets/images/assets/screen_14.png"
+              src="/assets/images/assets/screen_14.png"
               alt="screen-img"
               className="lazy-img shapes screen_01"
             />
           </div>
           <img
-            src="/static/assets/images/shape/shape_15.png"
+            src="/assets/images/shape/shape_15.png"
             alt="shape"
             className="lazy-img shapes shape_01"
           />
           <img
-            src="/static/assets/images/shape/shape_16.svg"
+            src="/assets/images/shape/shape_16.svg"
             alt="shape"
             className="lazy-img shapes shape_02"
           />

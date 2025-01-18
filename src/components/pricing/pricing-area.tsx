@@ -167,7 +167,7 @@ const PricingArea = () => {
         </div>
 
         <div className="contact-banner position-relative">
-          <img src="/static/assets/images/assets/ils_04.svg" alt="icon" className="lazy-img shapes screen_01" />
+          <img src="/assets/images/assets/ils_04.svg" alt="icon" className="lazy-img shapes screen_01" />
           <div className="row align-items-center justify-content-end">
             <div className="col-lg-6">
               <h2>

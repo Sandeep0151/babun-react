@@ -27,7 +27,7 @@ const BlockFeatureFive = () => {
 									<h4 className="fw-bold mt-40 md-mt-20 mb-20">{s.title}</h4>
 									<p className="mb-60 md-mb-40">{s.desc}</p>
 									<NavLink to="/service-details" className="arrow-btn tran3s m-auto stretched-link">
-										<img src="static/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img" />
+										<img src="/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img" />
 									</NavLink>
 								</div>
 							</div>
@@ -37,13 +37,13 @@ const BlockFeatureFive = () => {
 						<NavLink to="/service-v2" className="btn-seven d-inline-flex align-items-center">
 							<span className="text">All Services</span>
 							<div className="icon tran3s rounded-circle d-flex align-items-center">
-								<img src="static/assets/images/icon/icon_27.svg" alt="icon" className="lazy-img" />
+								<img src="/assets/images/icon/icon_27.svg" alt="icon" className="lazy-img" />
 							</div>
 						</NavLink>
 					</div>
 				</div>
 			</div>
-			<img src="static/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_01" />
+			<img src="/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_01" />
 		</div>
 	);
 };

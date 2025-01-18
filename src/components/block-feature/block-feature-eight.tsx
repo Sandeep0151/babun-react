@@ -35,7 +35,7 @@ const BlockFeatureEight = () => {
                   <NavLink to="/service-details"
                     className="arrow-btn tran3s mt-auto stretched-link"
                   >
-                    <img src="static/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img" />
+                    <img src="/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img" />
                   </NavLink>
                 </div>
               </div>
@@ -49,7 +49,7 @@ const BlockFeatureEight = () => {
           </div>
         </div>
       </div>
-      <img src="static/assets/images/shape/shape_16.svg" alt="shape" className="lazy-img shapes shape_01" />
+      <img src="/assets/images/shape/shape_16.svg" alt="shape" className="lazy-img shapes shape_01" />
     </div>
   );
 };

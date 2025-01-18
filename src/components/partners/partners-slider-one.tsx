@@ -33,13 +33,13 @@ const slider_setting = {
 
 // slider logos
 const slider_logos: string[] = [
-  '/static/assets/images/logo/media_01.png',
-  '/static/assets/images/logo/media_02.png',
-  '/static/assets/images/logo/media_03.png',
-  '/static/assets/images/logo/media_04.png',
-  '/static/assets/images/logo/media_05.png',
-  '/static/assets/images/logo/media_03.png',
-  '/static/assets/images/logo/media_01.png',
+  '/assets/images/logo/media_01.png',
+  '/assets/images/logo/media_02.png',
+  '/assets/images/logo/media_03.png',
+  '/assets/images/logo/media_04.png',
+  '/assets/images/logo/media_05.png',
+  '/assets/images/logo/media_03.png',
+  '/assets/images/logo/media_01.png',
 ];
 
 const PartnersSliderOne = () => {

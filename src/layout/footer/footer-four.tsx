@@ -11,7 +11,7 @@ const FooterFour = () => {
           <div className="col-lg-4 footer-intro mb-40">
             <div className="logo mb-25">
               <NavLink to="/">
-                <img src="/static/assets/images/logo/logo_01.svg" alt="logo"/>
+                <img src="/assets/images/logo/logo_01.svg" alt="logo"/>
               </NavLink>
             </div> 
             <p className="mb-55 md-mb-30">
@@ -19,11 +19,11 @@ const FooterFour = () => {
             </p>
             <ul className="style-none">
               <li className="d-flex align-items-center">
-                <img src="/static/assets/images/icon/icon_49.svg" alt="icon" className="lazy-img icon me-3"/>
+                <img src="/assets/images/icon/icon_49.svg" alt="icon" className="lazy-img icon me-3"/>
                 <a href="#">babuninc@company.com</a>
               </li>
               <li className="d-flex align-items-center">
-                <img src="/static/assets/images/icon/icon_50.svg" alt="icon" className="lazy-img icon me-3"/>
+                <img src="/assets/images/icon/icon_50.svg" alt="icon" className="lazy-img icon me-3"/>
                 <a href="#">+757 699-4478</a>
               </li>
             </ul>

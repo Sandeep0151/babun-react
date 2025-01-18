@@ -15,11 +15,11 @@ const HeaderOne = () => {
             <div className="greetings text-center"><span className="opacity-50">Hello!!</span> <span className="fw-500">Welcome to babun.</span></div>
             <ul className="style-none d-none d-md-flex contact-info">
               <li className="d-flex align-items-center">
-                <img src="static/assets/images/icon/icon_14.svg" alt="icon" className="lazy-img icon me-2" /> 
+                <img src="/assets/images/icon/icon_14.svg" alt="icon" className="lazy-img icon me-2" />
                 <a href="mailto:babuninc@company.com" className="fw-500">babuninc@company.com</a>
                 </li>
               <li className="d-flex align-items-center">
-                <img src="static/assets/images/icon/icon_15.svg" alt="icon" className="lazy-img icon me-2" /> 
+                <img src="/assets/images/icon/icon_15.svg" alt="icon" className="lazy-img icon me-2" />
                 <a href="tel:+757 699-4478" className="fw-500">+757 699-4478</a>
                 </li>
             </ul>
@@ -30,14 +30,14 @@ const HeaderOne = () => {
             <div className="d-flex align-items-center">
               <div className="logo order-lg-0">
                 <NavLink to="/" className="d-flex align-items-center">
-                  <img src="static/assets/images/logo/logo_02.svg" alt="logo" />
+                  <img src="/assets/images/logo/logo_02.svg" alt="logo" />
                 </NavLink>
               </div>
 
               <div className="right-widget order-lg-3 ms-auto">
                 <ul className="d-flex align-items-center style-none">
                   <li className="d-flex align-items-center login-btn-one me-3 me-md-0">
-                    <img src="static/assets/images/icon/icon_16.svg" alt="icon" className="lazy-img icon me-2" />
+                    <img src="/assets/images/icon/icon_16.svg" alt="icon" className="lazy-img icon me-2" />
                     <a href="#" data-bs-toggle="modal" data-bs-target="#loginModal" className="fw-500">Login</a>
                   </li>
                   <li className="d-none d-md-inline-block ms-3 ms-lg-5 me-3 me-lg-0">

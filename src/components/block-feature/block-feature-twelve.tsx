@@ -26,7 +26,7 @@ const BlockFeatureTwelve = () => {
                 <div className="col-lg-7 order-lg-last">
                   <div className="pt-45">
                     <div className="icon rounded-circle d-flex align-items-center justify-content-center">
-                      <img src="static/assets/images/icon/icon_97.svg" alt="icon" className="lazy-img" />
+                      <img src="/assets/images/icon/icon_97.svg" alt="icon" className="lazy-img" />
                     </div>
                     <blockquote>
                       “Efficient, knowledgeable, & smooth experience. Highly
@@ -39,7 +39,7 @@ const BlockFeatureTwelve = () => {
                 </div>
                 <div className="col-lg-5 d-flex align-items-end justify-content-center order-lg-first">
                   <img
-                    src="static/assets/imagesstatic/assets/businessman_02.png"
+                    src="/assets/images/assets/businessman_02.png"
                     alt="man-img"
                     className="lazy-img"
                   />
@@ -59,7 +59,7 @@ const BlockFeatureTwelve = () => {
                 <NavLink to="/service-details"
                   className="arrow-btn tran3s mt-auto stretched-link"
                 >
-                  <img src="static/assets/images/icon/icon_09.svg" alt="arrow-icon" className="lazy-img" />
+                  <img src="/assets/images/icon/icon_09.svg" alt="arrow-icon" className="lazy-img" />
                 </NavLink>
               </div>
             </div>
@@ -78,7 +78,7 @@ const BlockFeatureTwelve = () => {
                   >
                     <span className="text">Learn More</span>
                     <div className="icon tran3s rounded-circle d-flex align-items-center">
-                      <img src="static/assets/images/icon/icon_27.svg" alt="icon" className="lazy-img" />
+                      <img src="/assets/images/icon/icon_27.svg" alt="icon" className="lazy-img" />
                     </div>
                   </NavLink>
                 </div>
@@ -101,7 +101,7 @@ const BlockFeatureTwelve = () => {
           </div>
         </div>
       </div>
-      <img src="static/assets/images/shape/shape_45.svg" alt="shape" className="lazy-img shapes shape_01" />
+      <img src="/assets/images/shape/shape_45.svg" alt="shape" className="lazy-img shapes shape_01" />
     </div>
   );
 };

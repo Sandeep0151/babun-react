@@ -27,7 +27,7 @@ const FancyBannerFive = ({
               onClick={() => setIsVideoOpen(true)}
             >
               <img
-                src="/static/assets/images/assets/sticker_02.png"
+                src="/assets/images/assets/sticker_02.png"
                 alt="sticker"
                 className="lazy-img"
               />
@@ -48,7 +48,7 @@ const FancyBannerFive = ({
                 onClick={() => setIsVideoOpen(true)}
               >
                 <img
-                  src="/static/assets/images/assets/sticker_02.png"
+                  src="/assets/images/assets/sticker_02.png"
                   alt="sticker"
                   className="lazy-img"
                 />
@@ -66,7 +66,7 @@ const FancyBannerFive = ({
               onClick={() => setIsVideoOpen(true)}
             >
               <img
-                src="/static/assets/images/assets/sticker_02.png"
+                src="/assets/images/assets/sticker_02.png"
                 alt="sticker"
                 className="lazy-img"
               />

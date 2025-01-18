@@ -32,8 +32,8 @@ const FeedbackFive = ({border}:{border?:string}) => {
         </Slider>
       </div>
     </div>
-    <img src="/static/assets/images/shape/shape_24.svg" alt="shape" className="lazy-img shapes shape_01"/>
-    <img src="/static/assets/images/assets/screen_19.png" alt="shape" className="lazy-img shapes shape_02"/>
+    <img src="/assets/images/shape/shape_24.svg" alt="shape" className="lazy-img shapes shape_01"/>
+    <img src="/assets/images/assets/screen_19.png" alt="shape" className="lazy-img shapes shape_02"/>
   </div>
   );
 };

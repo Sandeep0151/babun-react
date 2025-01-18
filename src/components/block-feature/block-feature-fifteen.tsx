@@ -4,17 +4,17 @@ import { NavLink } from "react-router-dom";
 const feature_data = [
   {
     id: 1,
-    img: 'static/assets/imagesstatic/assets/ils_08.svg',
+    img: '/assets/images/assets/ils_08.svg',
     desc: "It’s very easy to open an account and start your journey in a second.",
   },
   {
     id: 2,
-    img: 'static/assets/imagesstatic/assets/ils_09.svg',
+    img: 'assets/images/assets/ils_09.svg',
     desc: "Complete your profile with all the info to get attention of client.",
   },
   {
     id: 3,
-    img: 'static/assets/imagesstatic/assets/ils_10.svg',
+    img: '/assets/images/assets/ils_10.svg',
     desc: "Apply & get your preferable jobs with all the requirements and get it.",
   },
 ];
@@ -62,7 +62,7 @@ const BlockFeatureFifteen = () => {
             </NavLink>
           </div>
 
-          <img src="static/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_01" />
+          <img src="/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_01" />
         </div>
       </div>
     </div>

@@ -31,8 +31,8 @@ export default function AboutUsPage() {
             title="We’r top rated company"
             subtitle="Navigating Your Financial Growth With Experience & Insightful Solutions."
             page="About Us"
-            bg_img="/static/assets/images/media/img_26.jpg"
-            shape="/static/assets/images/shape/shape_25.svg"
+            bg_img="/assets/images/media/img_26.jpg"
+            shape="/assets/images/shape/shape_25.svg"
             style_2={true}
           />
           {/* breadcrumb end */}

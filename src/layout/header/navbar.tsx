@@ -13,8 +13,8 @@ const Navbar = ({ logo_white = false }: { logo_white?: boolean }) => {
             <img
               src={
                 logo_white
-                  ? "static/assets/images/logo/logo_01.svg"
-                  : "static/assets/images/logo/logo_02.svg"
+                  ? "/assets/images/logo/logo_01.svg"
+                  : "/assets/images/logo/logo_02.svg"
               }
               alt="logo"
             />
@@ -112,7 +112,7 @@ const Navbar = ({ logo_white = false }: { logo_white?: boolean }) => {
         <ul className="style-none contact-info m0 pt-30">
           <li className="d-flex align-items-center p0 mt-15">
             <img
-              src="static/assets/images/icon/icon_14.svg"
+              src="/assets/images/icon/icon_14.svg"
               alt="icon"
               className="lazy-img icon me-2"
             />
@@ -122,7 +122,7 @@ const Navbar = ({ logo_white = false }: { logo_white?: boolean }) => {
           </li>
           <li className="d-flex align-items-center p0 mt-15">
             <img
-              src="static/assets/images/icon/icon_15.svg"
+              src="/assets/images/icon/icon_15.svg"
               alt="icon"
               className="lazy-img icon me-2"
             />

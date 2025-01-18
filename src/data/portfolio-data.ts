@@ -3,28 +3,28 @@ import { IPortfolio } from '../types/portfolio-d-t';
 const portfolio_data:IPortfolio[] = [
   {
     id:1,
-    img:'/static/assets/images/gallery/img_05.jpg',
+    img:'/assets/images/gallery/img_05.jpg',
     tags:['PRINT','DESIGN'],
     title:'Tax Preparation.',
     portfolio:'portfolio-one'
   },
   {
     id:2,
-    img:'/static/assets/images/gallery/img_06.jpg',
+    img:'/assets/images/gallery/img_06.jpg',
     tags:['Mobile','UI/UX'],
     title:'Investment Planning',
     portfolio:'portfolio-one'
   },
   {
     id:3,
-    img:'/static/assets/images/gallery/img_07.jpg',
+    img:'/assets/images/gallery/img_07.jpg',
     tags:['Branding','UI/UX'],
     title:'Case Studies & Branding',
     portfolio:'portfolio-one'
   },
   {
     id:4,
-    img:'/static/assets/images/gallery/img_09.jpg',
+    img:'/assets/images/gallery/img_09.jpg',
     tags:['BANNER','WEB DESIGN'],
     title:'Online Banking',
     portfolio:'portfolio-one'
@@ -32,7 +32,7 @@ const portfolio_data:IPortfolio[] = [
   // portfolio two
   {
     id:5,
-    img:'/static/assets/images/gallery/img_20.jpg',
+    img:'/assets/images/gallery/img_20.jpg',
     tags:['BANNER','WEB DESIGN'],
     sub_title:'User Interface',
     title:'Landing for Creative Agency',
@@ -40,7 +40,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:6,
-    img:'/static/assets/images/gallery/img_21.jpg',
+    img:'/assets/images/gallery/img_21.jpg',
     tags:['BANNER','WEB DESIGN'],
     sub_title:'LANDING PAGE',
     title:'Babun- Landing Page Template',
@@ -48,7 +48,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:7,
-    img:'/static/assets/images/gallery/img_22.jpg',
+    img:'/assets/images/gallery/img_22.jpg',
     tags:['BANNER','WEB DESIGN'],
     sub_title:'User Interface',
     title:'Agency Minima Design',
@@ -56,7 +56,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:8,
-    img:'/static/assets/images/gallery/img_21.jpg',
+    img:'/assets/images/gallery/img_21.jpg',
     tags:['BANNER','WEB DESIGN'],
     sub_title:'User Interface',
     title:'Landing for Creative Agency',
@@ -64,7 +64,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:8,
-    img:'/static/assets/images/gallery/img_21.jpg',
+    img:'/assets/images/gallery/img_21.jpg',
     tags:['BANNER','WEB DESIGN'],
     sub_title:'User Interface',
     title:'Landing for Creative Agency',
@@ -72,7 +72,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:8,
-    img:'/static/assets/images/gallery/img_21.jpg',
+    img:'/assets/images/gallery/img_21.jpg',
     tags:['BANNER','WEB DESIGN'],
     sub_title:'User Interface',
     title:'Landing for Creative Agency',
@@ -81,7 +81,7 @@ const portfolio_data:IPortfolio[] = [
   // project v2 page
   {
     id:9,
-    img:'/static/assets/images/gallery/img_05.jpg',
+    img:'/assets/images/gallery/img_05.jpg',
     tags:['PRINT','DESIGN'],
     sub_title:'User Interface',
     title:'Tax Preparation.',
@@ -89,7 +89,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:10,
-    img:'/static/assets/images/gallery/img_06.jpg',
+    img:'/assets/images/gallery/img_06.jpg',
     tags:['Mobile','UI/UX'],
     sub_title:'User Interface',
     title:'Investment Planning',
@@ -97,7 +97,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:11,
-    img:'/static/assets/images/gallery/img_07.jpg',
+    img:'/assets/images/gallery/img_07.jpg',
     tags:['Branding','UI/UX'],
     sub_title:'User Interface',
     title:'Case Studies & Branding',
@@ -105,7 +105,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:12,
-    img:'/static/assets/images/gallery/img_08.jpg',
+    img:'/assets/images/gallery/img_08.jpg',
     tags:['BANNER','WEB DESIGN'],
     sub_title:'User Interface',
     title:'Online Banking',
@@ -113,7 +113,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:13,
-    img:'/static/assets/images/gallery/img_09.jpg',
+    img:'/assets/images/gallery/img_09.jpg',
     tags:['Mobile','UI/UX'],
     sub_title:'User Interface',
     title:'Market Analysis',
@@ -121,7 +121,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:14,
-    img:'/static/assets/images/gallery/img_10.jpg',
+    img:'/assets/images/gallery/img_10.jpg',
     tags:['PRINT','DESIGN'],
     sub_title:'User Interface',
     title:'Business Consulting',
@@ -130,7 +130,7 @@ const portfolio_data:IPortfolio[] = [
   // project v3 page
   {
     id:15,
-    img:'/static/assets/images/gallery/img_11.jpg',
+    img:'/assets/images/gallery/img_11.jpg',
     tags:['PRINT','DESIGN'],
     sub_title:'User Interface',
     title:'Tax Preparation.',
@@ -138,7 +138,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:16,
-    img:'/static/assets/images/gallery/img_12.jpg',
+    img:'/assets/images/gallery/img_12.jpg',
     tags:['Mobile','UI/UX'],
     sub_title:'User Interface',
     title:'Investment Planning',
@@ -146,7 +146,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:17,
-    img:'/static/assets/images/gallery/img_13.jpg',
+    img:'/assets/images/gallery/img_13.jpg',
     tags:['Branding','UI/UX'],
     sub_title:'User Interface',
     title:'Case Studies & Branding',
@@ -154,7 +154,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:18,
-    img:'/static/assets/images/gallery/img_14.jpg',
+    img:'/assets/images/gallery/img_14.jpg',
     tags:['BANNER','WEB DESIGN'],
     sub_title:'User Interface',
     title:'Online Banking',
@@ -162,7 +162,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:19,
-    img:'/static/assets/images/gallery/img_15.jpg',
+    img:'/assets/images/gallery/img_15.jpg',
     tags:['Mobile','UI/UX'],
     sub_title:'User Interface',
     title:'Market Analysis',
@@ -170,7 +170,7 @@ const portfolio_data:IPortfolio[] = [
   },
   {
     id:20,
-    img:'/static/assets/images/gallery/img_16.jpg',
+    img:'/assets/images/gallery/img_16.jpg',
     tags:['PRINT','DESIGN'],
     sub_title:'User Interface',
     title:'Business Consulting',

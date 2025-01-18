@@ -26,7 +26,7 @@ const FooterFive = () => {
                 <div className="col-lg-4 mb-15">
                   <div className="logo text-center text-lg-start mb-25">
                     <NavLink to="/">
-                      <img src="/static/assets/images/logo/logo_03.svg" alt="logo" />
+                      <img src="/assets/images/logo/logo_03.svg" alt="logo" />
                     </NavLink>
                   </div>
                 </div>
@@ -50,8 +50,8 @@ const FooterFive = () => {
           </div>
         </div>
       </div>
-      <img src="/static/assets/images/shape/shape_40.svg" alt="shape" className="lazy-img shapes shape_01" />
-      <img src="/static/assets/images/shape/shape_41.svg" alt="shape" className="lazy-img shapes shape_02" />
+      <img src="/assets/images/shape/shape_40.svg" alt="shape" className="lazy-img shapes shape_01" />
+      <img src="/assets/images/shape/shape_41.svg" alt="shape" className="lazy-img shapes shape_02" />
     </div>
   );
 };

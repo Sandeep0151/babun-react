@@ -26,7 +26,7 @@ const FancyBannerFour = () => {
                   className="d-flex align-items-center windows-button"
                 >
                   <img
-                    src="/static/assets/images/icon/playstore.svg"
+                    src="/assets/images/icon/playstore.svg"
                     alt="playstore"
                     className="lazy-img icon"
                   />
@@ -37,7 +37,7 @@ const FancyBannerFour = () => {
                 </a>
                 <NavLink to="#" className="d-flex align-items-center ios-button">
                   <img
-                    src="/static/assets/images/icon/apple.svg"
+                    src="/assets/images/icon/apple.svg"
                     alt="apple"
                     className="lazy-img icon"
                   />
@@ -51,7 +51,7 @@ const FancyBannerFour = () => {
           </div>
           <div className="col-lg-6">
             <img
-              src="/static/assets/images/assets/screen_11.png"
+              src="/assets/images/assets/screen_11.png"
               alt="screen"
               className="lazy-i"
             />

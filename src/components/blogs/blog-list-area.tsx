@@ -22,7 +22,7 @@ const BlogListArea = () => {
                   <div className="post-data">
                     <div className="icon rounded-circle d-flex align-items-center justify-content-center m-auto">
                       <img
-                        src="static/assets/images/icon/icon_93.svg"
+                        src="/assets/images/icon/icon_93.svg"
                         alt="quote-icon"
                         className="lazy-img"
                       />

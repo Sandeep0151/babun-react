@@ -45,13 +45,13 @@ const TextFeatureThree = ({cls,style_2}:{cls?:string;style_2?:boolean}) => {
           </div>
           <div className="col-xxl-6 col-lg-5 d-flex order-lg-first wow fadeInLeft">
             <div className="media-wrapper w-100 position-relative">
-              <img src="/static/assets/images/assets/screen_04.svg" alt="screen" className="lazy-img shapes screen_01"/>
-              <img src="/static/assets/images/assets/screen_05.svg" alt="screen" className="lazy-img shapes screen_02"/>
+              <img src="/assets/images/assets/screen_04.svg" alt="screen" className="lazy-img shapes screen_01"/>
+              <img src="/assets/images/assets/screen_05.svg" alt="screen" className="lazy-img shapes screen_02"/>
             </div>
           </div>
         </div>
       </div>
-      <img src="/static/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_01" />
+      <img src="/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_01" />
     </div>
     }
 

@@ -25,8 +25,8 @@ export default function TeamV1Page() {
             title="Our Talented Experts"
             subtitle="Meet our experts, guiding you through financial intricacies with precision"
             page="Team"
-            shape="/static/assets/images/shape/shape_31.svg"
-            bg_img="/static/assets/images/media/img_32.jpg"
+            shape="/assets/images/shape/shape_31.svg"
+            bg_img="/assets/images/media/img_32.jpg"
           />
           {/* breadcrumb end */}
 

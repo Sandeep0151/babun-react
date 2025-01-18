@@ -39,12 +39,12 @@ const TeamSectionThree = ({ style_2 = false }: { style_2?: boolean }) => {
             </div>
           </div>
           <img
-            src="/static/assets/images/shape/shape_05.svg"
+            src="/assets/images/shape/shape_05.svg"
             alt="shape"
             className="lazy-img shapes shape_01"
           />
           <img
-            src="/static/assets/images/shape/shape_05.svg"
+            src="/assets/images/shape/shape_05.svg"
             alt="shape"
             className="lazy-img shapes shape_02"
           />
@@ -78,7 +78,7 @@ const TeamSectionThree = ({ style_2 = false }: { style_2?: boolean }) => {
             </div>
           </div>
           <img
-            src="/static/assets/images/shape/shape_47.svg"
+            src="/assets/images/shape/shape_47.svg"
             alt="shape"
             className="lazy-img shapes shape_03"
           />

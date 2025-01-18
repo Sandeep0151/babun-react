@@ -30,17 +30,17 @@ const HeroBannerFive = () => {
         </div>
         <div className="media-wrapper ps-5 pe-5 d-flex align-items-end">
           <img
-            src="/static/assets/images/assets/businessman_01.png"
+            src="/assets/images/assets/businessman_01.png"
             alt="image"
             className="lazy-img me-auto ms-auto"
           />
           <img
-            src="/static/assets/images/assets/screen_18.png"
+            src="/assets/images/assets/screen_18.png"
             alt="image"
             className="lazy-img shapes shape_01"
           />
           <img
-            src="/static/assets/images/assets/sticker.png"
+            src="/assets/images/assets/sticker.png"
             alt="image"
             className="lazy-img shapes shape_02"
           />

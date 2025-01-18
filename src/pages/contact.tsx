@@ -24,7 +24,7 @@ export default function ContactPage() {
             title="Contact us for inquiries"
             subtitle="Get our all info and also can message us directly from here"
             page="Contact"
-            shape="/static/assets/images/shape/shape_33.svg"
+            shape="/assets/images/shape/shape_33.svg"
           />
           {/* breadcrumb end */}
 

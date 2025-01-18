@@ -2,9 +2,9 @@ import Slider from "react-slick";
 
 // slider bg
 const slider_bg = [
-  '/static/assets/images/media/img_49.jpg',
-  '/static/assets/images/media/img_02.jpg',
-  '/static/assets/images/media/img_03.jpg'
+  '/assets/images/media/img_49.jpg',
+  '/assets/images/media/img_02.jpg',
+  '/assets/images/media/img_03.jpg'
 ];
 // slider setting
 const slider_setting = {
@@ -35,7 +35,7 @@ const HeroBannerSeven = () => {
         <div className="row align-items-end">
           <div className="col-lg-6">
             <h1 className="hero-heading text-white d-inline-block position-relative wow fadeInUp">Insure life’s Journey
-              <img src="/static/assets/images/shape/shape_48.svg" alt="shape" className="lazy-img d-inline-block" />
+              <img src="/assets/images/shape/shape_48.svg" alt="shape" className="lazy-img d-inline-block" />
             </h1>
             <p className="text-xl text-white pt-35 lg-pt-20 xs-pt-10 wow fadeInUp" data-wow-delay="0.1s">
               Unlock your {"business's"} growth potential with a marketing {"agency's"} expertise.

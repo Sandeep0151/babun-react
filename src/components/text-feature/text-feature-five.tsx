@@ -31,7 +31,7 @@ const TextFeatureFive = () => {
                   >
                     <span className="text">More about us</span>
                     <div className="icon tran3s rounded-circle d-flex align-items-center">
-                      <img src="/static/assets/images/icon/icon_27.svg" alt="icon" className="lazy-img" />
+                      <img src="/assets/images/icon/icon_27.svg" alt="icon" className="lazy-img" />
                     </div>
                   </NavLink>
                 </div>
@@ -42,10 +42,10 @@ const TextFeatureFive = () => {
                     className="fancybox rounded-circle video-icon tran3s text-center d-flex align-items-center justify-content-center cursor-pointer"
                     onClick={() => setIsVideoOpen(true)}
                   >
-                    <img src="/static/assets/images/icon/icon_29.svg" alt="icon" className="lazy-img" />
+                    <img src="/assets/images/icon/icon_29.svg" alt="icon" className="lazy-img" />
                   </a>
                   <img
-                    src="/static/assets/images/assets/screen_07.svg"
+                    src="/assets/images/assets/screen_07.svg"
                     alt="screen"
                     className="lazy-img shapes screen_01"
                   />

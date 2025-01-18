@@ -51,7 +51,7 @@ const TextFeatureTwo = () => {
         <div className="row gx-0 mt-50 lg-mt-20 md-mt-10">
           <div className="col-lg-4">
             <CardStyle
-              icon="/static/assets/images/icon/icon_17.svg"
+              icon="/assets/images/icon/icon_17.svg"
               num={120}
               text="mil+"
               desc="We’ve experience more than 10+ years with success."
@@ -59,7 +59,7 @@ const TextFeatureTwo = () => {
           </div>
           <div className="col-lg-4">
             <CardStyle
-              icon="/static/assets/images/icon/icon_18.svg"
+              icon="/assets/images/icon/icon_18.svg"
               num={1.3}
               text="b+"
               desc="We achieve lot for our work from top certified agency."
@@ -68,7 +68,7 @@ const TextFeatureTwo = () => {
           </div>
           <div className="col-lg-4">
             <CardStyle
-              icon="/static/assets/images/icon/icon_19.svg"
+              icon="/assets/images/icon/icon_19.svg"
               num={730}
               text="k+"
               desc="We’ve more than happy 3000+ client all over the world."
@@ -76,8 +76,8 @@ const TextFeatureTwo = () => {
           </div>
         </div>
       </div>
-      <img src="/static/assets/images/shape/shape_07.svg" alt="shape" className="lazy-img shapes shape_01" />
-      <img src="/static/assets/images/shape/shape_08.svg" alt="shape" className="lazy-img shapes shape_02" />
+      <img src="/assets/images/shape/shape_07.svg" alt="shape" className="lazy-img shapes shape_01" />
+      <img src="/assets/images/shape/shape_08.svg" alt="shape" className="lazy-img shapes shape_02" />
     </div>
   );
 };

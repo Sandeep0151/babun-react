@@ -13,7 +13,7 @@ type ITestimonial = {
 export const feed_back_two:ITestimonial[] = [
   {
     id:1,
-    user:'/static/assets/images/media/img_08.jpg',
+    user:'/assets/images/media/img_08.jpg',
     name:'James Bond.',
     location:'Thailad',
     desc:'We are absolutely thrilled with the services provided by Babun! Their team went above and beyond to transform our outdated website into a stunning, user-friendly masterpiece.',
@@ -21,7 +21,7 @@ export const feed_back_two:ITestimonial[] = [
   },
   {
     id:2,
-    user:'/static/assets/images/media/img_09.jpg',
+    user:'/assets/images/media/img_09.jpg',
     name:'James Bond.',
     location:'Thailad',
     desc:'It has been an absolute pleasure working with Babun on our brand identity overhaul. Their ability to capture the essence of our culinary vision and translate it into a visual identity has been commendable.',
@@ -29,7 +29,7 @@ export const feed_back_two:ITestimonial[] = [
   },
   {
     id:3,
-    user:'/static/assets/images/media/img_08.jpg',
+    user:'/assets/images/media/img_08.jpg',
     name:'Mark Smith',
     location:'United state',
     desc:'It has been an absolute pleasure working with Babun on our brand identity overhaul. Their ability to capture the essence of our culinary vision and translate it into a visual identity has been commendable.',
@@ -37,7 +37,7 @@ export const feed_back_two:ITestimonial[] = [
   },
   {
     id:4,
-    user:'/static/assets/images/media/img_09.jpg',
+    user:'/assets/images/media/img_09.jpg',
     name:'Jon Doe',
     location:'Dubai',
     desc:'Babun thumbs up to the team! Their personalized approach to fitness training has been a breath of fresh air. The trainers are not only knowledgeable but also genuinely invested in their clients well-being',
@@ -49,21 +49,21 @@ export const feed_back_two:ITestimonial[] = [
 export const feedback_one = [
   {
     id:1,
-    user:'/static/assets/images/media/img_08.jpg',
+    user:'/assets/images/media/img_08.jpg',
     name:'John Smith',
     location:'CEO & Head of Sky Tech Inc.',
     desc:`"Efficient problem-solving, insightful market analysis, and actionable plans made the consulting experience invaluable to our business's success."`
   },
   {
     id:2,
-    user:'/static/assets/images/media/img_08.jpg',
+    user:'/assets/images/media/img_08.jpg',
     name:'Mark John',
     location:'CEO & Head of Apple Tech Inc.',
     desc:`"Lorem ipsum, dolor sit amet consectetur elit. Asperiores unde inventore tenetur. Accusantium tenetur id cupiditate quibusdam."`
   },
   {
     id:3,
-    user:'/static/assets/images/media/img_08.jpg',
+    user:'/assets/images/media/img_08.jpg',
     name:'James Bond.',
     location:'CEO & Head of Pixel Tech Inc.',
     desc:`"Efficient problem-solving, insightful market analysis, and actionable plans made the consulting experience invaluable to our business's success."`
@@ -94,7 +94,7 @@ export const feedback_four:ITestimonial[] = [
     desc:'Game-changer! Boosted efficiency, simplified tasks, and saved time. Highly recommended!',
     name:'John Smith',
     location:'Claifornia',
-    user:'/static/assets/images/media/img_08.jpg',
+    user:'/assets/images/media/img_08.jpg',
     rating:5
   },
   {
@@ -102,7 +102,7 @@ export const feedback_four:ITestimonial[] = [
     desc:'Game-changer! Boosted efficiency, simplified tasks, and saved time. Highly recommended!',
     name:'Zephyrlyn',
     location:'Valeria',
-    user:'/static/assets/images/media/img_14.jpg',
+    user:'/assets/images/media/img_14.jpg',
     rating:4
   },
   {
@@ -110,7 +110,7 @@ export const feedback_four:ITestimonial[] = [
     desc:'Game-changer! Boosted efficiency, simplified tasks, and saved time. Highly recommended!',
     name:'Quinvera',
     location:'Aqualuna',
-    user:'/static/assets/images/media/img_15.jpg',
+    user:'/assets/images/media/img_15.jpg',
     rating:4.5
   },
 ]

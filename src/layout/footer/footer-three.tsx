@@ -12,7 +12,7 @@ const FooterThree = ({style_2}:{style_2?:boolean}) => {
 							<div className={`round-bg ${style_2?'color-two':''} rounded-circle text-center d-flex flex-column align-items-center justify-content-center`}>
 								<div className="logo mb-15">
 									<NavLink to="/">
-										<img src="/static/assets/images/logo/logo_02.svg" alt="logo"/>
+										<img src="/assets/images/logo/logo_02.svg" alt="logo"/>
 									</NavLink>
 								</div> 
 								<p className="lh-sm mb-45 lg-mb-30">2190 Urban Terrace, Mirpur,  <br/>Licensed in 50 states.</p>
@@ -49,8 +49,8 @@ const FooterThree = ({style_2}:{style_2?:boolean}) => {
 							</ul>
 						</div>
 					</div>
-					<img src="/static/assets/images/shape/shape_36.svg" alt="shape" className="lazy-img shapes shape_01"/>
-					<img src={style_2?'/static/assets/images/shape/shape_39.svg':'/static/assets/images/shape/shape_37.svg'} alt="shape" className="lazy-img shapes shape_02"/>
+					<img src="/assets/images/shape/shape_36.svg" alt="shape" className="lazy-img shapes shape_01"/>
+					<img src={style_2?'/assets/images/shape/shape_39.svg':'/assets/images/shape/shape_37.svg'} alt="shape" className="lazy-img shapes shape_02"/>
 				</div>
 			</div>
 			<div className="container">

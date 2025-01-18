@@ -30,7 +30,7 @@ const HeroBannerFour = () => {
               </NavLink>
               <div className="d-flex align-items-center md-mt-20">
                 <img
-                  src="/static/assets/images/assets/screen_12.png"
+                  src="/assets/images/assets/screen_12.png"
                   alt="screen"
                   className="lazy-img avatar"
                 
@@ -47,11 +47,11 @@ const HeroBannerFour = () => {
         </div>
       </div>
       <div className="media-wrapper wow fadeInUp">
-        <img src="/static/assets/images/assets/screen_13.png" alt="screen" className="lazy-img w-100" />
+        <img src="/assets/images/assets/screen_13.png" alt="screen" className="lazy-img w-100" />
       </div>
-      <img src="/static/assets/images/shape/shape_14.svg" alt="shape" className="lazy-img shapes shape_01" />
+      <img src="/assets/images/shape/shape_14.svg" alt="shape" className="lazy-img shapes shape_01" />
       <img
-        src="/static/assets/images/assets/screen_21.svg"
+        src="/assets/images/assets/screen_21.svg"
         alt="screen"
         className="lazy-img shapes shape_02 wow fadeInUp"
       />

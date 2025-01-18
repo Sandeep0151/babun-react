@@ -73,7 +73,7 @@ const TextFeatureEight = ({ style_2 = false }: { style_2?: boolean }) => {
               <div className="col-lg-6 col-md-8 m-auto wow fadeInRight">
                 <div className="media-wrapper md-mt-40">
                   <img
-                    src="/static/assets/images/assets/screen_16.png"
+                    src="/assets/images/assets/screen_16.png"
                     alt="screen"
                     className="lazy-img ms-auto"
                   />

@@ -54,7 +54,7 @@ const TextFeatureOne = ({ style_2 = false }: { style_2?: boolean }) => {
                   </NavLink>
                   <NavLink to="/contact" className="btn-three icon-link mt-15">
                     <span>Request a Callback</span>
-                    <img src="/static/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img icon ms-1"/>
+                    <img src="/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img icon ms-1"/>
                   </NavLink>
                 </div>
               </div>
@@ -88,15 +88,15 @@ const TextFeatureOne = ({ style_2 = false }: { style_2?: boolean }) => {
                   </p>
                   <NavLink to="/contact" className="btn-three icon-link mt-15 md-mb-40">
                     <span>Request a Callback</span>
-                    <img src="/static/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img icon ms-1"/>
+                    <img src="/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img icon ms-1"/>
                   </NavLink>
                 </div>
                 <div className="col-lg-6 ms-auto wow fadeInRight">
-                  <CardItem icon="/static/assets/images/icon/icon_10.svg" title="Our Mission" desc="Our mission is to reshape lives by offering financial expertise, faster growth, & securing futures through trusted partnerships & innovation." />
-                  <CardItem icon="/static/assets/images/icon/icon_11.svg" title="Our company vision." desc="Our vision is to create a financially secure future for all, offering innovative solutions & expert guidance to navigate prosperity." />
+                  <CardItem icon="/assets/images/icon/icon_10.svg" title="Our Mission" desc="Our mission is to reshape lives by offering financial expertise, faster growth, & securing futures through trusted partnerships & innovation." />
+                  <CardItem icon="/assets/images/icon/icon_11.svg" title="Our company vision." desc="Our vision is to create a financially secure future for all, offering innovative solutions & expert guidance to navigate prosperity." />
                 </div>
               </div>
-              <img src="/static/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_01"/>
+              <img src="/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_01"/>
             </div>
 
             <div className="counter-wrapper mt-80 lg-mt-20">

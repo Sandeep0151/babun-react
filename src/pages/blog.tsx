@@ -25,9 +25,9 @@ export default function BlogPage() {
             title="Explore our News"
             subtitle="Meet our experts, guiding you through financial intricacies with precision"
             page="Blog"
-            bg_img="/static/assets/images/media/img_32.jpg"
+            bg_img="/assets/images/media/img_32.jpg"
             style_2={true}
-            shape="/static/assets/images/shape/shape_34.svg"
+            shape="/assets/images/shape/shape_34.svg"
           />
           {/* breadcrumb end */}
 

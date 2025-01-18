@@ -3,7 +3,7 @@ import { IBlog } from '../types/blog-d-t';
 const blog_data:IBlog[] = [
   {
     id:1,
-    img:'/static/assets/images/blog/blog_img_03.jpg',
+    img:'/assets/images/blog/blog_img_03.jpg',
     date:'09 FEB 2023',
     title:'Wise Spending Habits, 13 Tips for Maximizing Your Money.',
     author:'Mark doe',
@@ -13,7 +13,7 @@ const blog_data:IBlog[] = [
   },
   {
     id:2,
-    img:'/static/assets/images/blog/blog_img_04.jpg',
+    img:'/assets/images/blog/blog_img_04.jpg',
     date:'12 aug 2023',
     title:'Business Success: Lessons from Visionary Leaders',
     author:'John Smith',
@@ -24,7 +24,7 @@ const blog_data:IBlog[] = [
   // home 5
   {
     id:3,
-    img:'/static/assets/images/logo/media_01.png',
+    img:'/assets/images/logo/media_01.png',
     date:'18 Jul 2023',
     title:'Designer’s Checklist for Every UX/UI Project.',
     author:'John Smith',
@@ -34,7 +34,7 @@ const blog_data:IBlog[] = [
   },
   {
     id:4,
-    img:'/static/assets/images/logo/media_03.png',
+    img:'/assets/images/logo/media_03.png',
     date:'20 Aug 2023',
     title:'Speaking remotely at WordCamp US.',
     author:'John Smith',
@@ -45,7 +45,7 @@ const blog_data:IBlog[] = [
   // blog list
   {
     id:5,
-    img:'/static/assets/images/blog/blog_img_06.jpg',
+    img:'/assets/images/blog/blog_img_06.jpg',
     date:'09 FEB 2023',
     title:'Spending Habits, 13 Tips for grow Your Money.',
     author:'John Smith',
@@ -55,7 +55,7 @@ const blog_data:IBlog[] = [
   },
   {
     id:6,
-    img:'/static/assets/images/blog/blog_img_07.jpg',
+    img:'/assets/images/blog/blog_img_07.jpg',
     date:'12 APR 2023',
     title:'Our Travel Card Makes you Happy.',
     author:'Orion Frostfall',
@@ -65,7 +65,7 @@ const blog_data:IBlog[] = [
   },
   {
     id:7,
-    img:'/static/assets/images/blog/blog_img_07.jpg',
+    img:'/assets/images/blog/blog_img_07.jpg',
     quote_blog:true,
     date:'15 JAN 2023',
     title:'Budget your desires, investing knowledge, & let compound interest build your future.',
@@ -77,7 +77,7 @@ const blog_data:IBlog[] = [
   },
   {
     id:8,
-    img:'/static/assets/images/blog/blog_img_08.jpg',
+    img:'/assets/images/blog/blog_img_08.jpg',
     date:'20 JUN 2023',
     title:'Manage your Online Banking & Get Rewarded',
     author:'Asher Stormforge',
@@ -87,7 +87,7 @@ const blog_data:IBlog[] = [
   },
   {
     id:9,
-    img:'/static/assets/images/blog/blog_img_09.jpg',
+    img:'/assets/images/blog/blog_img_09.jpg',
     date:'22 MAY 2023',
     title:'It’s easy to Buildup your Business with us',
     author:'Octavian Wraithwood',
@@ -98,7 +98,7 @@ const blog_data:IBlog[] = [
   // blog grid
   {
     id:10,
-    img:'/static/assets/images/blog/blog_img_03.jpg',
+    img:'/assets/images/blog/blog_img_03.jpg',
     date:'08 JUN 2023',
     title:'Spending Habits, 13 Tips for grow Your Money.',
     author:'Declan Thornheart',
@@ -108,7 +108,7 @@ const blog_data:IBlog[] = [
   },
   {
     id:11,
-    img:'/static/assets/images/blog/blog_img_04.jpg',
+    img:'/assets/images/blog/blog_img_04.jpg',
     date:'13 APR 2023',
     title:'Our Travel Card Makes you Happy.',
     author:'Rylan Blackthorn',
@@ -118,7 +118,7 @@ const blog_data:IBlog[] = [
   },
   {
     id:12,
-    img:'/static/assets/images/blog/blog_img_12.jpg',
+    img:'/assets/images/blog/blog_img_12.jpg',
     date:'15 FEB 2023',
     title:'It’s easy to Buildup your Business with us',
     author:'Caspian Thunderstrike',
@@ -128,7 +128,7 @@ const blog_data:IBlog[] = [
   },
   {
     id:14,
-    img:'/static/assets/images/blog/blog_img_13.jpg',
+    img:'/assets/images/blog/blog_img_13.jpg',
     date:'18 OCT 2023',
     title:'Manage your Online Banking & Get Rewarded',
     author:'Leander Frostblade',
@@ -138,7 +138,7 @@ const blog_data:IBlog[] = [
   },
   {
     id:15,
-    img:'/static/assets/images/blog/blog_img_14.jpg',
+    img:'/assets/images/blog/blog_img_14.jpg',
     date:'20 AUG 2023',
     title:'It’s easy to Buildup your Business with us',
     author:'Gideon Starfire',
@@ -148,7 +148,7 @@ const blog_data:IBlog[] = [
   },
   {
     id:16,
-    img:'/static/assets/images/blog/blog_img_15.jpg',
+    img:'/assets/images/blog/blog_img_15.jpg',
     date:'21 MAY 2023',
     title:'Manage your Online Banking & Get Rewarded',
     author:'Finnian Stormcaller',

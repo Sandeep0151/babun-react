@@ -28,8 +28,8 @@ export default function NotFoundPage() {
                 Go Back
               </NavLink>
             </div>
-            <img src="/static/assets/images/assets/ils_05.svg" alt="shape" className="lazy-img shapes shape_01" />
-            <img src="/static/assets/images/assets/ils_06.svg" alt="shape" className="lazy-img shapes shape_02" />
+            <img src="/assets/images/assets/ils_05.svg" alt="shape" className="lazy-img shapes shape_01" />
+            <img src="/assets/images/assets/ils_06.svg" alt="shape" className="lazy-img shapes shape_02" />
           </div>
         </main>
       </div>

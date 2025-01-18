@@ -32,17 +32,17 @@ const HeroBannerSix = () => {
           <div className="col-md-6 d-md-flex justify-content-end wow fadeInRight">
             <div className="media-wrapper position-relative ms-lg-5">
               <img
-                src="/static/assets/images/assets/screen_22.svg"
+                src="/assets/images/assets/screen_22.svg"
                 alt="screen"
                 className="lazy-img shapes screen_01"
               />
               <img
-                src="/static/assets/images/assets/screen_23.png"
+                src="/assets/images/assets/screen_23.png"
                 alt="screen"
                 className="lazy-img shapes screen_02"
               />
               <img
-                src="/static/assets/images/shape/shape_43.svg"
+                src="/assets/images/shape/shape_43.svg"
                 alt="shape"
                 className="lazy-img shapes bg-shape"
               />
@@ -63,7 +63,7 @@ const HeroBannerSix = () => {
         </div>
       </div>
       <img
-        src="/static/assets/images/shape/shape_42.svg"
+        src="/assets/images/shape/shape_42.svg"
         alt="shape"
         className="lazy-img shapes shape_01"
       />

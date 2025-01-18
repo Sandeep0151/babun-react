@@ -6,7 +6,7 @@ const BlogDetailsCommentArea = () => {
       <h3 className="blog-inner-title pb-15">Comments</h3>
       <div className="comment d-flex">
         <img
-          src="static/assets/images/blog/avatar_01.jpg"
+          src="/assets/images/blog/avatar_01.jpg"
           alt="avatar"
           className="lazy-img user-avatar rounded-circle"
         />
@@ -25,7 +25,7 @@ const BlogDetailsCommentArea = () => {
           </NavLink>
           <div className="comment reply-comment d-flex">
             <img
-              src="static/assets/images/blog/avatar_02.jpg"
+              src="/assets/images/blog/avatar_02.jpg"
               alt="avatar"
               className="lazy-img user-avatar rounded-circle"
             />
@@ -47,7 +47,7 @@ const BlogDetailsCommentArea = () => {
       </div>
       <div className="comment d-flex">
         <img
-          src="static/assets/images/blog/avatar_02.jpg"
+          src="/assets/images/blog/avatar_02.jpg"
           alt="avatar"
           className="lazy-img user-avatar rounded-circle"
         />

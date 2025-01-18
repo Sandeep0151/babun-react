@@ -25,13 +25,13 @@ const BlockFeatureOne = ({ style_2 = false }: { style_2?: boolean }) => {
 				<div className="container">
 					<div className="row">
 						<div className="col-lg-4 wow fadeInUp">
-							<UpperCardItem icon="static/assets/images/icon/icon_03.svg" title='Fees' subtitle='cupidatat non proident, sunt in culpa qui officia deserunt' />
+							<UpperCardItem icon="/assets/images/icon/icon_03.svg" title='Fees' subtitle='cupidatat non proident, sunt in culpa qui officia deserunt' />
 						</div>
 						<div className="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
-							<UpperCardItem icon="static/assets/images/icon/icon_04.svg" title='Expert Advisor' subtitle='Elit esse cillum dolore eu fugiat nulla pariatur' />
+							<UpperCardItem icon="/assets/images/icon/icon_04.svg" title='Expert Advisor' subtitle='Elit esse cillum dolore eu fugiat nulla pariatur' />
 						</div>
 						<div className="col-lg-4 wow fadeInUp" data-wow-delay="0.2s">
-							<UpperCardItem icon="static/assets/images/icon/icon_05.svg" title='Effective Support' subtitle='quis nostrud exerct ullamo ea nisi ut aliqui com dolor' />
+							<UpperCardItem icon="/assets/images/icon/icon_05.svg" title='Effective Support' subtitle='quis nostrud exerct ullamo ea nisi ut aliqui com dolor' />
 						</div>
 					</div>
 				</div>
@@ -54,7 +54,7 @@ const BlockFeatureOne = ({ style_2 = false }: { style_2?: boolean }) => {
 									<h4 className="fw-bold mt-30 mb-25">{item.title}</h4>
 									<p className="mb-20">{item.desc}</p>
 									<NavLink to="/service-details" className="arrow-btn tran3s mt-auto stretched-link">
-										<img src="static/assets/images/icon/icon_09.svg" alt="arrow" className="lazy-img" />
+										<img src="/assets/images/icon/icon_09.svg" alt="arrow" className="lazy-img" />
 									</NavLink>
 								</div>
 							</div>
@@ -65,7 +65,7 @@ const BlockFeatureOne = ({ style_2 = false }: { style_2?: boolean }) => {
 						<p className="text-lg">Inciddnt ut labore et dolor magna aliu. enim ad mim venam, quis nostru </p>
 						<NavLink to="/service-v1" className="btn-three icon-link">
 							<span>See All Services</span>
-							<img src="static/assets/images/icon/icon_09.svg" alt="arrow" className="lazy-img icon ms-1" />
+							<img src="/assets/images/icon/icon_09.svg" alt="arrow" className="lazy-img icon ms-1" />
 						</NavLink>
 					</div>
 				</div>

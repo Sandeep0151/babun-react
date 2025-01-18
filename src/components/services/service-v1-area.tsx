@@ -34,22 +34,22 @@ const ServiceOneArea = () => {
               <p className="text-lg mt-45 lg-mt-30 mb-60 lg-mb-30">Your success is our mission. As business advisors, we offer expert guidance, unlocking your potential for growth and profitability</p>
               <NavLink to="/contact" className="btn-three icon-link mt-15 md-mb-60">
                 <span>Request a Callback</span>
-                <img src="/static/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img icon ms-1" />
+                <img src="/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img icon ms-1" />
               </NavLink>
             </div>
             <div className="col-lg-6 ms-auto">
               <div className="row">
                 <div className="col-sm-6 d-flex wow fadeInUp">
-                  <CardItem icon="/static/assets/images/icon/icon_55.svg" title='Expert Advisor' subtitle='Elit esse cillum dolore eu fugiat nulla pariatur' />
+                  <CardItem icon="/assets/images/icon/icon_55.svg" title='Expert Advisor' subtitle='Elit esse cillum dolore eu fugiat nulla pariatur' />
                 </div>
                 <div className="col-sm-6 d-flex wow fadeInUp" data-wow-delay="0.1s">
-                  <CardItem icon="/static/assets/images/icon/icon_56.svg" title='Effective Support' subtitle='quis nostrud exerct ullamo ea nisi ut aliqui com dolor' />
+                  <CardItem icon="/assets/images/icon/icon_56.svg" title='Effective Support' subtitle='quis nostrud exerct ullamo ea nisi ut aliqui com dolor' />
                 </div>
                 <div className="col-sm-6 d-flex wow fadeInUp" data-wow-delay="0.2s">
-                  <CardItem icon="/static/assets/images/icon/icon_57.svg" title='Low Fees' subtitle='cupidatat non proident, sunt in culpa qui officia deserunt' />
+                  <CardItem icon="/assets/images/icon/icon_57.svg" title='Low Fees' subtitle='cupidatat non proident, sunt in culpa qui officia deserunt' />
                 </div>
                 <div className="col-sm-6 d-flex wow fadeInUp" data-wow-delay="0.3s">
-                  <CardItem icon="/static/assets/images/icon/icon_58.svg" title='Loan Facility' subtitle='quis nostrud exerct ullamo ea nisi ut aliqui com dolor' />
+                  <CardItem icon="/assets/images/icon/icon_58.svg" title='Loan Facility' subtitle='quis nostrud exerct ullamo ea nisi ut aliqui com dolor' />
                 </div>
               </div>
             </div>
@@ -73,15 +73,15 @@ const ServiceOneArea = () => {
                     <img src={s.icon} alt="icon" className="lazy-img icon me-auto" />
                     <h4 className="fw-bold mt-30 mb-25">Tax Preparation</h4>
                     <p className="mb-20">Use receiving accounts in a growing number of currencies and get paid like a local.</p>
-                    <NavLink to="/service-details" className="arrow-btn tran3s mt-auto stretched-link"><img src="/static/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img" /></NavLink>
+                    <NavLink to="/service-details" className="arrow-btn tran3s mt-auto stretched-link"><img src="/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img" /></NavLink>
                   </div>
                 </div>
               ))}
             </div>
           </div>
         </div>
-        <img src="/static/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_01" />
-        <img src="/static/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_02" />
+        <img src="/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_01" />
+        <img src="/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_02" />
       </div>
       {/* block feature end */}
 

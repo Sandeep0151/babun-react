@@ -9,7 +9,7 @@ const BlockFeatureThirteen = () => {
 						<div className="col-lg-6 order-lg-last">
 							<div className="ps-xl-5">
 								<div className="d-flex align-items-center">
-									<img src="static/assets/imagesstatic/assets/trustpilot.png" alt="trustpilot" className="lazy-img icon"/>
+									<img src="/assets/images/assets/trustpilot.png" alt="trustpilot" className="lazy-img icon"/>
 									<span className="ps-4">(<span className="fw-500 text-dark">4.7</span> Rating)</span>
 								</div>
 								<div className="title-two pe-xxl-4 mt-20 mb-75 md-mb-50">
@@ -46,7 +46,7 @@ const BlockFeatureThirteen = () => {
 						</div>
 					</div>
 				</div>
-				<img src="static/assets/images/shape/shape_49.svg" alt="shape" className="lazy-img shapes shape_01"/>
+				<img src="/assets/images/shape/shape_49.svg" alt="shape" className="lazy-img shapes shape_01"/>
 			</div>
 
 			<div className="container">

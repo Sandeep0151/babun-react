@@ -1,9 +1,10 @@
-import React, { useState } from "react";
-import axiosInstance from "../../utils/axiosConfig";
-import getCsrfToken from '../../utils/getCsrfToken';
+import React, { useState, useEffect } from "react";
+import axios from 'axios';
+import fetchCsrfToken from '../../utils/getCsrfToken'; // Adjust the path as needed
 import styles from "./CreditScoreForm.module.css";
 
 const CreditScoreForm: React.FC = () => {
+  const [csrfToken, setCsrfToken] = useState('');
   const [formData, setFormData] = useState({
     fullName: "",
     dob: "",
@@ -13,6 +14,14 @@ const CreditScoreForm: React.FC = () => {
   });
   const [message, setMessage] = useState("");
 
+  useEffect(() => {
+        const getCsrf = async () => {
+            const token = await fetchCsrfToken();
+            setCsrfToken(token);
+        };
+        getCsrf();
+    }, []);
+
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { id, value } = e.target;
     setFormData({ ...formData, [id]: value });
@@ -21,9 +30,9 @@ const CreditScoreForm: React.FC = () => {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     try {
-      const csrfToken = await getCsrfToken();
-      await axiosInstance.post(
-        '/api/credit-score/',
+
+      await axios.post(
+        'http://54.158.143.81/api/credit-score/',
         {
           name: formData.fullName,
           dob: formData.dob,
@@ -32,10 +41,18 @@ const CreditScoreForm: React.FC = () => {
           pan: formData.pan,
         },
         {
-          headers: { "X-CSRFToken": csrfToken },
+          headers: { 'Content-Type': 'application/json',
+                        'X-CSRFToken': csrfToken, },
         }
       );
       setMessage("Your credit score request was successfully submitted!");
+      setFormData({
+                    fullName: '',
+                    dob: '',
+                    mobile: '',
+                    email: '',
+                    pan: '',
+                });
     } catch (error) {
       setMessage("An error occurred. Please try again.");
       console.error(error);

@@ -11,7 +11,7 @@ const FooterOne = () => {
           <div className="col-xl-4 col-md-3 footer-intro mb-30">
             <div className="logo mb-15">
               <NavLink to="/" className="d-inline-block d-lg-none">
-                <img src="/static/assets/images/logo/logo_01.svg" alt="logo"/>
+                <img src="/assets/images/logo/logo_01.svg" alt="logo"/>
               </NavLink>
             </div> 
             <p className="text-white lh-sm mb-35">Top-rated <span className="opacity-50">business <br/> consultancy for your success</span></p>
@@ -65,7 +65,7 @@ const FooterOne = () => {
           </div>
           <div className="col-lg-7 order-lg-first mb-15">
             <NavLink to="/" className="d-none d-lg-inline-block mb-25">
-              <img src="/static/assets/images/logo/logo_01.svg" alt="logo"/>
+              <img src="/assets/images/logo/logo_01.svg" alt="logo"/>
             </NavLink>
             <div className="d-xl-flex align-items-center">
               <ul className="style-none bottom-nav d-flex flex-wrap justify-content-center justify-content-lg-start order-lg-last">

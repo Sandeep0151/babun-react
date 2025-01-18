@@ -67,7 +67,7 @@ const FeedbackFour = ({spacing}:{spacing?:string}) => {
                         <i className="bi bi-star-fill"></i>
                       </li>
                     </ul>
-                    <img src="/static/assets/images/icon/icon_48.svg" alt="icon" className="icon" />
+                    <img src="/assets/images/icon/icon_48.svg" alt="icon" className="icon" />
                   </div>
                   <blockquote>
                    {item.desc}

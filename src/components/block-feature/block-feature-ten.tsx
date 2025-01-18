@@ -30,7 +30,7 @@ const BlockFeatureTen = () => {
           <div className="row gx-lg-5">
             <div className="col-xl-4 col-md-6 wow fadeInUp">
               <CardItem
-                icon="static/assets/images/icon/icon_62.svg"
+                icon="/assets/images/icon/icon_62.svg"
                 title="Multiple Account"
                 subtitle="Effortless payments and transfers with our streamlined banking process."
               />
@@ -40,7 +40,7 @@ const BlockFeatureTen = () => {
               data-wow-delay="0.1s"
             >
               <CardItem
-                icon="static/assets/images/icon/icon_63.svg"
+                icon="/assets/images/icon/icon_63.svg"
                 title="Loan Facility"
                 subtitle="Earning potential grows with dedication, innovation, & with our instruction from expert."
               />
@@ -50,14 +50,14 @@ const BlockFeatureTen = () => {
               data-wow-delay="0.2s"
             >
               <CardItem
-                icon="static/assets/images/icon/icon_64.svg"
+                icon="/assets/images/icon/icon_64.svg"
                 title="Expense Track"
                 subtitle="Strengthen budgeting through precise and instinctive monitoring of your expenses."
               />
             </div>
             <div className="col-xl-4 col-md-6 wow fadeInUp">
               <CardItem
-                icon="static/assets/images/icon/icon_65.svg"
+                icon="/assets/images/icon/icon_65.svg"
                 title="DPS & FDR"
                 subtitle="Achieve lasting dreams through disciplined savings & a thoughtful investment approach."
               />
@@ -67,7 +67,7 @@ const BlockFeatureTen = () => {
               data-wow-delay="0.1s"
             >
               <CardItem
-                icon="static/assets/images/icon/icon_66.svg"
+                icon="/assets/images/icon/icon_66.svg"
                 title="International Account"
                 subtitle="Achieve lasting dreams through disciplined savings and a thoughtful investment approach."
               />
@@ -77,7 +77,7 @@ const BlockFeatureTen = () => {
               data-wow-delay="0.2s"
             >
               <CardItem
-                icon="static/assets/images/icon/icon_67.svg"
+                icon="/assets/images/icon/icon_67.svg"
                 title="Credit Card"
                 subtitle="Strengthen budgeting through precise and instinctive monitoring of your expenses."
               />
@@ -85,7 +85,7 @@ const BlockFeatureTen = () => {
           </div>
         </div>
       </div>
-      <img src="static/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_01" />
+      <img src="/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_01" />
     </div>
   );
 };

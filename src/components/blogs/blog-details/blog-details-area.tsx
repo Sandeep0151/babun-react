@@ -14,7 +14,7 @@ const BlogDetailsArea = ({blog}:{blog:IBlog}) => {
             <article className="blog-meta-two style-two">
               <figure
                 className="post-img position-relative d-flex align-items-end m0"
-                style={{ backgroundImage: `url(static/assets/images/blog/blog_img_08.jpg)` }}
+                style={{ backgroundImage: `url(/assets/images/blog/blog_img_08.jpg)` }}
               >
                 <div className="date">{date}</div>
               </figure>
@@ -42,7 +42,7 @@ const BlogDetailsArea = ({blog}:{blog:IBlog}) => {
                     <div className="wrapper">
                       <div className="icon rounded-circle d-flex align-items-center justify-content-center m-auto">
                         <img
-                          src="static/assets/images/icon/icon_93.svg"
+                          src="/assets/images/icon/icon_93.svg"
                           alt="icon"
                           className="lazy-img"
                         />
@@ -63,14 +63,14 @@ const BlogDetailsArea = ({blog}:{blog:IBlog}) => {
                   <div className="row img-gallery">
                     <div className="col-sm-8">
                       <img
-                        src="static/assets/images/blog/blog_img_16.jpg"
+                        src="/assets/images/blog/blog_img_16.jpg"
                         alt="blog-img"
                         className="lazy-img w-100"
                       />
                     </div>
                     <div className="col-sm-4">
                       <img
-                        src="static/assets/images/blog/blog_img_17.jpg"
+                        src="/assets/images/blog/blog_img_17.jpg"
                         alt="blog-img"
                         className="lazy-img w-100"
                       />

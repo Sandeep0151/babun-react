@@ -23,7 +23,7 @@ const BlockFeatureSix = ({ style_2 = false }: { style_2?: boolean }) => {
                 >
                   <span className="text">All Services</span>
                   <div className="icon tran3s rounded-circle d-flex align-items-center">
-                    <img src="static/assets/images/icon/icon_27.svg" alt="icon" className="lazy-img" />
+                    <img src="/assets/images/icon/icon_27.svg" alt="icon" className="lazy-img" />
                   </div>
                 </NavLink>
               </div>
@@ -48,8 +48,8 @@ const BlockFeatureSix = ({ style_2 = false }: { style_2?: boolean }) => {
               </div>
             </div>
           </div>
-          <img src="static/assets/images/shape/shape_11.svg" alt="shape" className="lazy-img shapes shape_01" />
-          <img src="static/assets/images/shape/shape_12.svg" alt="shape" className="lazy-img shapes shape_02" />
+          <img src="/assets/images/shape/shape_11.svg" alt="shape" className="lazy-img shapes shape_01" />
+          <img src="/assets/images/shape/shape_12.svg" alt="shape" className="lazy-img shapes shape_02" />
         </div>
       }
 
@@ -65,7 +65,7 @@ const BlockFeatureSix = ({ style_2 = false }: { style_2?: boolean }) => {
               <NavLink to="/contact" className="btn-eleven d-inline-flex align-items-center md-mb-60">
                 <span className="text">Contact Us</span>
                 <div className="icon tran3s rounded-circle d-flex align-items-center">
-                  <img src="static/assets/images/icon/icon_27.svg" alt="icon" className="lazy-img" />
+                  <img src="/assets/images/icon/icon_27.svg" alt="icon" className="lazy-img" />
                </div>
               </NavLink>
             </div>
@@ -87,8 +87,8 @@ const BlockFeatureSix = ({ style_2 = false }: { style_2?: boolean }) => {
             </div>
           </div>
         </div>
-        <img src="static/assets/images/shape/shape_11.svg" alt="shape" className="lazy-img shapes shape_01" />
-        <img src="static/assets/images/shape/shape_12.svg" alt="shape" className="lazy-img shapes shape_02" />
+        <img src="/assets/images/shape/shape_11.svg" alt="shape" className="lazy-img shapes shape_01" />
+        <img src="/assets/images/shape/shape_12.svg" alt="shape" className="lazy-img shapes shape_02" />
       </div>}
     </>
   );

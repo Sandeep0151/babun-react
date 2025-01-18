@@ -13,14 +13,14 @@ const FancyBannerEight = () => {
               </div>
               <div className="position-relative d-inline-block mt-15">
                 <a href="contact.html" className="btn-twenty">Contact us</a>
-                <img src="/static/assets/images/shape/shape_51.svg" alt="shape" className="lazy-img shapes shape_02 wow fadeInRight"/>
+                <img src="/assets/images/shape/shape_51.svg" alt="shape" className="lazy-img shapes shape_02 wow fadeInRight"/>
               </div>
             </div>
           </div>
           <div className="col-md-5 text-center text-md-end">
             <div className="media-wrapper position-relative z-1 d-inline-block">
-              <img src="/static/assets/images/assets/businessman_03.png" alt="businessman" className="lazy-img"/>
-              <img src="/static/assets/images/shape/shape_52.png" alt="shape" className="lazy-img shapes shape_01"/>
+              <img src="/assets/images/assets/businessman_03.png" alt="businessman" className="lazy-img"/>
+              <img src="/assets/images/shape/shape_52.png" alt="shape" className="lazy-img shapes shape_01"/>
             </div>
           </div>
         </div>

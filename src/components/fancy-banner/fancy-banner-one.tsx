@@ -16,7 +16,7 @@ const FancyBannerOne = () => {
               <p className="text-md m0">Worldwide clients</p>
             </div>
             <img
-              src="/static/assets/images/assets/screen_01.png"
+              src="/assets/images/assets/screen_01.png"
               alt="screen"
               className="lazy-img screen me-xxl-5"
             />

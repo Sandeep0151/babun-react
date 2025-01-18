@@ -19,7 +19,7 @@ const HeroBannerThree = () => {
             <div className="right-widget sm-mt-40 ps-xxl-5 ps-xl-0 ps-lg-4">
               <div>
                 <img
-                  src="/static/assets/images/assets/screen_06.svg"
+                  src="/assets/images/assets/screen_06.svg"
                   alt="screen"
                   className="lazy-img screen_01"
                 />
@@ -32,7 +32,7 @@ const HeroBannerThree = () => {
               </p>
               <div className="row align-items-center">
                 <div className="col-xl-5 col-md-4">
-                  <img src="/static/assets/images/icon/icon_31.svg" alt="icon" className="lazy-img icon" />
+                  <img src="/assets/images/icon/icon_31.svg" alt="icon" className="lazy-img icon" />
                 </div>
                 <div className="col-xl-7 col-md-8">
                   <div className="main-count text-dark fw-500">
@@ -47,11 +47,11 @@ const HeroBannerThree = () => {
       </div>
       <div className="img-wrapper">
         <img
-          src="/static/assets/images/assets/businessman.png"
+          src="/assets/images/assets/businessman.png"
           alt="businessman"
           className="lazy-img m-auto"
         />
-        <img src="/static/assets/images/assets/round_shape.png" alt="shape" className="lazy-img round-bg" />
+        <img src="/assets/images/assets/round_shape.png" alt="shape" className="lazy-img round-bg" />
       </div>
     </div>
   );

@@ -14,7 +14,7 @@ const HeaderSeven = () => {
             <div className="d-flex align-items-center justify-content-between">
               <div className="logo order-lg-0">
                 <NavLink to="/" className="d-flex align-items-center">
-                  <img src="static/assets/images/logo/logo_01.svg" alt="logo" />
+                  <img src="/assets/images/logo/logo_01.svg" alt="logo" />
                 </NavLink>
               </div>
 

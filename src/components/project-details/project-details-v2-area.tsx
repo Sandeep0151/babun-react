@@ -13,15 +13,15 @@ const ProjectDetailsTwoArea = () => {
                   <div className="carousel-inner h-100">
                     <div
                       className="carousel-item h-100 active"
-                      style={{ backgroundImage: `url(/static/assets/images/media/img_37.jpg)` }}
+                      style={{ backgroundImage: `url(/assets/images/media/img_37.jpg)` }}
                     ></div>
                     <div
                       className="carousel-item h-100"
-                      style={{ backgroundImage: `url(/static/assets/images/media/img_01.jpg)` }}
+                      style={{ backgroundImage: `url(/assets/images/media/img_01.jpg)` }}
                     ></div>
                     <div
                       className="carousel-item h-100"
-                      style={{ backgroundImage: `url(/static/assets/images/media/img_02.jpg)` }}
+                      style={{ backgroundImage: `url(/assets/images/media/img_02.jpg)` }}
                     ></div>
                   </div>
                   <button
@@ -54,7 +54,7 @@ const ProjectDetailsTwoArea = () => {
                 <ul className="style-none list-meta">
                   <li className="d-flex align-items-center">
                     <div className="icon">
-                      <img src="/static/assets/images/icon/icon_85.svg" alt="" className="lazy-img"/>
+                      <img src="/assets/images/icon/icon_85.svg" alt="" className="lazy-img"/>
                     </div>
                     <div className="ps-4">
                       <div className="text1">Date</div>
@@ -63,7 +63,7 @@ const ProjectDetailsTwoArea = () => {
                   </li>
                   <li className="d-flex align-items-center">
                     <div className="icon">
-                      <img src="/static/assets/images/icon/icon_88.svg" alt="icon" className="lazy-img" />
+                      <img src="/assets/images/icon/icon_88.svg" alt="icon" className="lazy-img" />
                     </div>
                     <div className="ps-4">
                       <div className="text1">Client Name</div>
@@ -72,7 +72,7 @@ const ProjectDetailsTwoArea = () => {
                   </li>
                   <li className="d-flex align-items-center">
                     <div className="icon">
-                      <img src="/static/assets/images/icon/icon_89.svg" alt="icon" className="lazy-img" />
+                      <img src="/assets/images/icon/icon_89.svg" alt="icon" className="lazy-img" />
                     </div>
                     <div className="ps-4">
                       <div className="text1">Project Type</div>

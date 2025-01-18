@@ -28,8 +28,8 @@ export default function TestimonialPage() {
             title="Our clients word"
             subtitle="Check what’s our client say about us and explore their thought’s."
             page="Testimonials"
-            bg_img="/static/assets/images/media/img_32.jpg"
-            shape="/static/assets/images/shape/shape_32.svg"
+            bg_img="/assets/images/media/img_32.jpg"
+            shape="/assets/images/shape/shape_32.svg"
             style_2={true}
             cls="me-xl-4"
           />

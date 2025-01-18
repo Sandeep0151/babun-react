@@ -39,9 +39,9 @@ export default function BlogDetailsPage() {
             title="Single Blog Details"
             subtitle="Meet our experts, guiding you through financial intricacies with precision"
             page="Blog"
-            bg_img="/static/assets/images/media/img_32.jpg"
+            bg_img="/assets/images/media/img_32.jpg"
             style_2={true}
-            shape="/static/assets/images/shape/shape_35.svg"
+            shape="/assets/images/shape/shape_35.svg"
           />
           {/* breadcrumb end */}
 

@@ -7,7 +7,7 @@ const ProjectDetailsFeature = () => {
         <div className="card-style-sixteen text-center mt-40 md-mt-20">
           <div className="icon m-auto tran3s rounded-circle d-flex align-items-center justify-content-center">
             <img
-              src="/static/assets/images/icon/icon_81.svg"
+              src="/assets/images/icon/icon_81.svg"
               alt="icon"
               className="lazy-img"
             />
@@ -22,7 +22,7 @@ const ProjectDetailsFeature = () => {
         <div className="card-style-sixteen text-center arrow position-relative mt-40">
           <div className="icon m-auto tran3s rounded-circle d-flex align-items-center justify-content-center">
             <img
-              src="/static/assets/images/icon/icon_82.svg"
+              src="/assets/images/icon/icon_82.svg"
               alt="icon"
               className="lazy-img"
             />
@@ -37,7 +37,7 @@ const ProjectDetailsFeature = () => {
         <div className="card-style-sixteen text-center mt-40">
           <div className="icon m-auto tran3s rounded-circle d-flex align-items-center justify-content-center">
             <img
-              src="/static/assets/images/icon/icon_83.svg"
+              src="/assets/images/icon/icon_83.svg"
               alt="icon"
               className="lazy-img"
             />

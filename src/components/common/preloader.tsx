@@ -5,7 +5,7 @@ const Preloader = () => {
     <div id="preloader">
       <div id="ctn-preloader" className="ctn-preloader">
         <div className="icon">
-          <img src="/static/assets//images/loader.svg" alt="loader" className="m-auto d-block" width="60" />
+          <img src="/assets//images/loader.svg" alt="loader" className="m-auto d-block" width="60" />
         </div>
         <div className="txt-loading">
           <span data-text-preloader="B" className="letters-loading">

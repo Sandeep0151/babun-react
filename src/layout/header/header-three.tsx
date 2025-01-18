@@ -15,13 +15,13 @@ const HeaderThree = () => {
           <div className="d-flex align-items-center justify-content-between">
             <div className="logo order-lg-0">
               <NavLink to="/" className="d-flex align-items-center">
-                <img src="static/assets/images/logo/logo_02.svg" alt="logo" />
+                <img src="/assets/images/logo/logo_02.svg" alt="logo" />
               </NavLink>
             </div>
             <div className="right-widget ms-auto ms-lg-0 me-3 me-lg-0 order-lg-3">
               <ul className="d-flex align-items-center style-none">
                 <li className="d-flex align-items-center login-btn-one">
-                  <img src="static/assets/images/icon/icon_16.svg" alt="icon" className="lazy-img icon me-2" />
+                  <img src="/assets/images/icon/icon_16.svg" alt="icon" className="lazy-img icon me-2" />
                   <a
                     href="#"
                     data-bs-toggle="modal"

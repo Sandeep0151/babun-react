@@ -57,7 +57,7 @@ const TextFeatureSeven = () => {
           <div className="col-lg-6 col-md-8 m-auto wow fadeInLeft">
             <div className="media-wrapper md-mt-60">
               <img
-                src="/static/assets/images/assets/screen_15.png"
+                src="/assets/images/assets/screen_15.png"
                 alt="screen"
                 className="lazy-img"
               />
@@ -69,21 +69,21 @@ const TextFeatureSeven = () => {
           <div className="row">
             <div className="col-lg-4 d-flex wow fadeInUp">
               <CardItem
-                icon="/static/assets/images/icon/icon_43.svg"
+                icon="/assets/images/icon/icon_43.svg"
                 title="Instant Transfer - Free"
                 subtitle="0% charge for online money transfer from you wallet instant."
               />
             </div>
             <div className="col-lg-4 d-flex wow fadeInUp" data-wow-delay="0.1s">
               <CardItem
-                icon="/static/assets/images/icon/icon_44.svg"
+                icon="/assets/images/icon/icon_44.svg"
                 title="Google & Apple pay"
                 subtitle="Pay google & apple payment with your card without any hassle"
               />
             </div>
             <div className="col-lg-4 d-flex wow fadeInUp" data-wow-delay="0.2s">
               <CardItem
-                icon="/static/assets/images/icon/icon_45.svg"
+                icon="/assets/images/icon/icon_45.svg"
                 title="Top Security"
                 subtitle="World-class security that makes your money safe & secure."
               />

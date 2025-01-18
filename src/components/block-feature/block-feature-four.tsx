@@ -24,7 +24,7 @@ function BlockCardItem({
       <NavLink to="/service-v2"
         className="arrow-btn tran3s m-auto stretched-link"
       >
-        <img src="static/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img" />
+        <img src="/assets/images/icon/icon_09.svg" alt="icon" className="lazy-img" />
       </NavLink>
     </div>
   );
@@ -44,7 +44,7 @@ const BlockFeatureFour = () => {
         <div className="row gx-xxl-5">
           <div className="col-lg-4 d-flex wow fadeInUp">
             <BlockCardItem
-              icon="static/assets/images/icon/icon_20.svg"
+              icon="/assets/images/icon/icon_20.svg"
               title="Expert Advisor"
               subtitle="Elit esse cillum dolore eu fugiat nulla pariatur"
             />
@@ -52,7 +52,7 @@ const BlockFeatureFour = () => {
 
           <div className="col-lg-4 d-flex wow fadeInUp" data-wow-delay="0.1s">
             <BlockCardItem
-              icon="static/assets/images/icon/icon_21.svg"
+              icon="/assets/images/icon/icon_21.svg"
               title="Highly Secured"
               subtitle="Elit esse cillum dolore eu fugiat nulla pariatur"
               isActive={true}
@@ -60,15 +60,15 @@ const BlockFeatureFour = () => {
           </div>
           <div className="col-lg-4 d-flex wow fadeInUp" data-wow-delay="0.2s">
             <BlockCardItem
-              icon="static/assets/images/icon/icon_22.svg"
+              icon="/assets/images/icon/icon_22.svg"
               title="Management"
               subtitle="Elit esse cillum dolore eu fugiat nulla pariatur"
             />
           </div>
         </div>
       </div>
-      <img src="static/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_01" />
-      <img src="static/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_02" />
+      <img src="/assets/images/shape/shape_05.svg" alt="shape" className="lazy-img shapes shape_01" />
+      <img src="/assets/images/shape/shape_06.svg" alt="shape" className="lazy-img shapes shape_02" />
     </div>
   );
 };

@@ -66,7 +66,7 @@ const FeedbackOne = ({cls}:{cls?:string}) => {
           </Slider>
 
           <div className="icon d-flex align-items-center justify-content-center rounded-circle">
-            <img src="/static/assets/images/icon/icon_12.svg" alt="icon" className="lazy-img" />
+            <img src="/assets/images/icon/icon_12.svg" alt="icon" className="lazy-img" />
           </div>
         </div>
       </div>

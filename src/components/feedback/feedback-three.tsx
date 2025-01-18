@@ -29,7 +29,7 @@ const FeedbackThree = ({spacing,bottom_slider=true}:{spacing?:string;bottom_slid
                   <h2 className="text-dark">Find our Customers kind Words.</h2>
                 </div>
                 <div className="slider-wrapper position-relative">
-                  <img src="/static/assets/images/icon/icon_39.svg" alt="icon" className="lazy-img shapes icon"/>
+                  <img src="/assets/images/icon/icon_39.svg" alt="icon" className="lazy-img shapes icon"/>
                     <Slider {...slider_setting} className="feedback-slider-three">
                       {feedback_three.map((item) => (
                       <div key={item.id} className="item">
@@ -44,7 +44,7 @@ const FeedbackThree = ({spacing,bottom_slider=true}:{spacing?:string;bottom_slid
 
               <div className="col-xl-6 col-lg-5 ms-auto text-center text-lg-end">
                 <div className="media-wrapper d-inline-block position-relative md-mt-40">
-                  <img src="/static/assets/images/media/img_21.jpg" alt="media_img" className="lazy-img" />
+                  <img src="/assets/images/media/img_21.jpg" alt="media_img" className="lazy-img" />
                   <div className="rating-box text-center">
                     <div className="rating fw-bold text-white">4.8</div>
                     <div className="text-white">avg rating</div>
@@ -63,8 +63,8 @@ const FeedbackThree = ({spacing,bottom_slider=true}:{spacing?:string;bottom_slid
           </div>
         </div>
 
-        <img src="/static/assets/images/shape/shape_13.svg" alt="shape" className="lazy-img shapes shape_01" />
-        <img src="/static/assets/images/shape/shape_13.svg" alt="shape" className="lazy-img shapes shape_02" />
+        <img src="/assets/images/shape/shape_13.svg" alt="shape" className="lazy-img shapes shape_01" />
+        <img src="/assets/images/shape/shape_13.svg" alt="shape" className="lazy-img shapes shape_02" />
       </div>
     </>
   );

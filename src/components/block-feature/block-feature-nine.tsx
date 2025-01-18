@@ -32,7 +32,7 @@ const BlockFeatureNine = () => {
         <div className="row gx-xl-5 justify-content-center">
           <div className="col-lg-4 col-md-6 d-flex wow fadeInUp">
             <CardItem
-              icon="static/assets/images/icon/icon_51.svg"
+              icon="/assets/images/icon/icon_51.svg"
               title="SOLUTION"
               subtitle="Get all digital solution from our expert"
             />
@@ -42,7 +42,7 @@ const BlockFeatureNine = () => {
             data-wow-delay="0.1s"
           >
             <CardItem
-              icon="static/assets/images/icon/icon_52.svg"
+              icon="/assets/images/icon/icon_52.svg"
               title="REPUTATED"
               subtitle="13+ years of successful client relations."
             />
@@ -52,7 +52,7 @@ const BlockFeatureNine = () => {
             data-wow-delay="0.2s"
           >
             <CardItem
-              icon="static/assets/images/icon/icon_53.svg"
+              icon="/assets/images/icon/icon_53.svg"
               title="SUPPORT"
               subtitle="Get quick & reliable support by us."
             />
@@ -63,13 +63,13 @@ const BlockFeatureNine = () => {
           Design, <span>Marketing,</span> Branding, <span>Development</span> &
           more.{" "}
           <NavLink to="#">
-            <img src="static/assets/images/icon/icon_54.svg" alt="arrow" className="lazy-img" />
+            <img src="/assets/images/icon/icon_54.svg" alt="arrow" className="lazy-img" />
           </NavLink>
         </h3>
       </div>
-      <img src="static/assets/images/shape/shape_21.svg" alt="shape" className="lazy-img shapes shape_01" />
-      <img src="static/assets/images/shape/shape_22.svg" alt="shape" className="lazy-img shapes shape_02" />
-      <img src="static/assets/images/shape/shape_23.svg" alt="shape" className="lazy-img shapes shape_03" />
+      <img src="/assets/images/shape/shape_21.svg" alt="shape" className="lazy-img shapes shape_01" />
+      <img src="/assets/images/shape/shape_22.svg" alt="shape" className="lazy-img shapes shape_02" />
+      <img src="/assets/images/shape/shape_23.svg" alt="shape" className="lazy-img shapes shape_03" />
     </div>
   );
 };

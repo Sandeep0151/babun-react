@@ -8,7 +8,7 @@ const TeamDetailsArea = () => {
         <div className="bg-wrapper">
           <div className="row">
             <div className="col-lg-4">
-              <div className="member-img" style={{ backgroundImage: `url(/static/assets/images/media/img_46.jpg)` }}></div>
+              <div className="member-img" style={{ backgroundImage: `url(/assets/images/media/img_46.jpg)` }}></div>
             </div>
             <div className="col-lg-4 col-md-6">
               <div className="pt-45 pb-45 ps-xl-4 ps-lg-0 ps-3 pe-xl-4 pe-lg-3 pe-3 border-right h-100">

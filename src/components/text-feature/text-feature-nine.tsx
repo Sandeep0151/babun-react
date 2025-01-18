@@ -15,14 +15,14 @@ const TextFeatureNine = () => {
                 <div className="row">
                   <div className="col-sm-6">
                     <div className="block mt-30">
-                      <img src="/static/assets/images/icon/icon_46.svg" alt="icon" className="lazy-img icon" />
+                      <img src="/assets/images/icon/icon_46.svg" alt="icon" className="lazy-img icon" />
                       <h4 className="fw-500 text-white mt-35 lg-mt-30 mb-25">Management</h4>
                       <p className="text-white opacity-75">Elit esse cillum dolore eutile fugiat nulla pariatur</p>
                     </div>
                   </div>
                   <div className="col-sm-6">
                     <div className="block mt-30">
-                      <img src="/static/assets/images/icon/icon_47.svg" alt="" className="lazy-img icon" />
+                      <img src="/assets/images/icon/icon_47.svg" alt="" className="lazy-img icon" />
                       <h4 className="fw-500 text-white mt-35 lg-mt-30 mb-25">Security</h4>
                       <p className="text-white opacity-75">quis nostrud exercit ullamo ea laboris nisi ut aliqui. quis nos exercit laboris nisi.</p>
                     </div>
@@ -39,11 +39,11 @@ const TextFeatureNine = () => {
         <div className="text-list"><span>Management</span></div>
         <div className="text-list"><span>Payment</span></div>
         <div className="text-list"><span>Freelancer</span></div>
-        <img src="/static/assets/images/shape/shape_17.svg" alt="shape" className="lazy-img shapes shape_01" />
-        <img src="/static/assets/images/shape/shape_18.svg" alt="shape" className="lazy-img shapes shape_02" />
+        <img src="/assets/images/shape/shape_17.svg" alt="shape" className="lazy-img shapes shape_01" />
+        <img src="/assets/images/shape/shape_18.svg" alt="shape" className="lazy-img shapes shape_02" />
       </div>
-      <img src="/static/assets/images/shape/shape_18.svg" alt="shape" className="lazy-img shapes shape_03" />
-      <img src="/static/assets/images/assets/screen_17.png" alt="screen" className="lazy-img shapes shape_04" />
+      <img src="/assets/images/shape/shape_18.svg" alt="shape" className="lazy-img shapes shape_03" />
+      <img src="/assets/images/assets/screen_17.png" alt="screen" className="lazy-img shapes shape_04" />
     </div>
   );
 };

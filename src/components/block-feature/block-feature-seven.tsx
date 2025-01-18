@@ -46,18 +46,18 @@ const BlockFeatureSeven = () => {
           <div className="row">
             <div className="col-lg-5 d-flex wow fadeInUp">
               <CardItem
-                icon="static/assets/images/icon/icon_36.svg"
+                icon="/assets/images/icon/icon_36.svg"
                 title="Mutual Funds."
                 desc="Mutual funds enable collective investment, managed by professionals for potential growth."
-                bg_img="static/assets/imagesstatic/assets/screen_08.svg"
+                bg_img="/assets/images/assets/screen_08.svg"
               />
             </div>
             <div className="col-lg-7 d-flex wow fadeInUp" data-wow-delay="0.1s">
               <CardItem
-                icon="static/assets/images/icon/icon_37.svg"
+                icon="/assets/images/icon/icon_37.svg"
                 title="Pension Scheme."
                 desc="Pension schemes ensure financial security during retirement years for eligible individuals. Retirement pensions provide financial security for qualifying individuals."
-                bg_img="static/assets/imagesstatic/assets/screen_09.svg"
+                bg_img="/assets/images/assets/screen_09.svg"
               />
             </div>
             <div className="col-12 d-flex wow fadeInUp" data-wow-delay="0.2s">
@@ -65,7 +65,7 @@ const BlockFeatureSeven = () => {
                 <div className="row align-items-end">
                   <div className="col-lg-6">
                     <div className="icon tran3s rounded-circle d-flex align-items-center justify-content-center">
-                      <img src="static/assets/images/icon/icon_38.svg" alt="" className="lazy-img" />
+                      <img src="/assets/images/icon/icon_38.svg" alt="" className="lazy-img" />
                     </div>
                     <h3 className="fw-bold mt-30 lg-mt-20 text-dark">
                       International Multi-Currency Visa & Master Card.
@@ -78,7 +78,7 @@ const BlockFeatureSeven = () => {
                   </div>
                   <div className="col-lg-5 ms-auto">
                     <img
-                      src="static/assets/imagesstatic/assets/screen_10.svg"
+                      src="/assets/images/assets/screen_10.svg"
                       alt=""
                       className="lazy-img mt-auto me-auto ms-auto w-100"
                     />
@@ -87,7 +87,7 @@ const BlockFeatureSeven = () => {
               </div>
             </div>
           </div>
-          <img src="static/assets/images/shape/shape_13.svg" alt="shape" className="lazy-img shapes shape_01" />
+          <img src="/assets/images/shape/shape_13.svg" alt="shape" className="lazy-img shapes shape_01" />
         </div>
       </div>
     </div>

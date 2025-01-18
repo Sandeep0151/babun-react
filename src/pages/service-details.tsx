@@ -25,8 +25,8 @@ export default function ServiceDetailsPage() {
             title="Single Service Details"
             subtitle="Offering solutions & services to address a spectrum of financial issues"
             page="Services"
-            shape="/static/assets/images/shape/shape_27.svg"
-            bg_img="/static/assets/images/media/img_32.jpg"
+            shape="/assets/images/shape/shape_27.svg"
+            bg_img="/assets/images/media/img_32.jpg"
             style_2={true}
             cls="me-xl-4"
           />
