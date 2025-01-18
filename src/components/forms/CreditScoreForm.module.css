@@ -1,0 +1,129 @@
+.container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  padding-top: 200px; /* Adds padding at the top */
+  font-size: 0.9rem; /* Reduces font size */
+  flex-direction: row; /* Default layout for larger screens */
+}
+
+.leftSection {
+  flex: 1;
+  background-color: #474ebb;
+  padding: 20px;
+  border-radius: 8px;
+  font-size: 0.90rem; /* Slightly smaller text */
+}
+
+.rightSection {
+  flex: 2;
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px; /* Reduced gap */
+  margin-bottom: 20px;
+}
+
+.inputGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 5px; /* Adds spacing between label and input */
+}
+
+.inputGroup label {
+  font-weight: 500; /* Bold labels */
+}
+
+.inputGroup input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+
+.inputGroup input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  outline: none;
+}
+
+.checkboxGroup {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  font-size: 0.85rem;
+}
+
+.checkboxGroup label a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.checkboxGroup label a:hover {
+  text-decoration: underline;
+}
+
+.submitButton {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.submitButton:hover {
+  background-color: #0056b3;
+}
+
+.submitButton:active {
+  transform: scale(0.98);
+}
+
+/* Media Query for Mobile Screens */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column; /* Stack elements vertically */
+    gap: 10px; /* Reduce gap for a cleaner mobile layout */
+  }
+
+  .leftSection {
+    display: none; /* Hide the left section on mobile */
+  }
+
+  .rightSection {
+    flex: 1; /* Take full width on mobile */
+    padding: 10px; /* Add padding for better spacing */
+  }
+
+  .row {
+    grid-template-columns: 1fr; /* Make inputs stack vertically */
+    gap: 10px; /* Reduce gap between inputs */
+  }
+
+  .inputGroup input {
+    font-size: 0.85rem; /* Slightly smaller input font size */
+    padding: 6px; /* Adjust padding for mobile inputs */
+  }
+
+  .checkboxGroup {
+    flex-direction: column; /* Stack checkbox and label vertically */
+    align-items: flex-start; /* Align items to the left */
+  }
+
+  .submitButton {
+    width: 100%; /* Make the button take full width */
+    font-size: 0.85rem; /* Adjust button font size */
+    padding: 8px; /* Reduce padding */
+  }
+}
